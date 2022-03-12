@@ -1,0 +1,17 @@
+vio:
+  grid_size: 8            #Feature grid size of a cell in [px].
+  max_n_kfs: 30            #Limit the number of keyframes in the map. This makes nslam essentially. a Visual Odometry. Set to 0 if unlimited number of keyframes are allowed.  Minimum number of keyframes is 3.
+  loba_num_iter: 10         #Number of iterations in the local bundle adjustment.
+  quality_min_fts: 10      #If the number of tracked features drops below this threshold. Tracking quality is bad.
+  quality_max_drop_fts: 90 #If within one frame, this amount of features are dropped. Tracking quality is bad.
+  init_min_tracked: 120
+  init_min_disparity: 10
+  structureoptim_max_pts: 50
+  kfselect_mindist: 0.01
+  poseoptim_thresh: 0.25
+  ACC_ekf: 0.2          #acc white noise in continuous in EKF
+  GYO_ekf: 0.1         #gyro white noise in continuous in EKF
+  VO_ekf_translation: 1.0              #VO noise  in EKF
+  VO_ekf_orientation: 1.0              #VO noise  in EKF
+  CMD_ekf_translation: 0.1  #control vector noise in EKF
+  CMD_ekf_orientation: 0.01  #control vector noise in EKF

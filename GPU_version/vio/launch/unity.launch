@@ -1,0 +1,22 @@
+<launch>
+
+  <node pkg="vio_VIO" type="vo" name="vio" clear_params="true" output="screen">
+
+    <!-- Camera topic to subscribe to -->
+    <param name="cam_topic" value="/image_converter/output_image " type="str" />
+    <param name="imu_topic" value="/imu_unity/imu" type="str" />
+
+    <!-- Camera calibration file -->
+    <rosparam file="$(find vio_VIO)/param/unity.yaml" />
+
+    <!-- Default parameter settings: choose between vo_fast and vo_accurate -->
+    <rosparam file="$(find vio_VIO)/param/vo_fast.yaml" />
+
+    <!-- Initial camera orientation, make it point downwards -->
+    <param name="init_rx" value="0.00" />
+    <param name="init_ry" value="0.00" />
+    <param name="init_rz" value="0.00" />
+
+  </node>
+
+</launch>

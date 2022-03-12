@@ -1,0 +1,1267 @@
+[10:20:36.543] Init: frame zero: 0.000000, 0.000000 0.000000
+[10:20:36.543] Init: Selected first frame. 
+[10:20:36.543] frame process finished the id is: 0 the obs is:0 
+[10:20:36.564] Init: px average disparity is:0.028000 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:36.564] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:36.564] frame process finished the id is: 1 the obs is:0 
+[10:20:36.621] Init: px average disparity is:0.028622 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:36.621] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:36.621] frame process finished the id is: 2 the obs is:0 
+[10:20:36.740] Init: px average disparity is:0.030451 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:36.740] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:36.740] frame process finished the id is: 3 the obs is:0 
+[10:20:36.837] Init: px average disparity is:0.032691 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:36.837] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:36.837] frame process finished the id is: 4 the obs is:0 
+[10:20:36.935] Init: px average disparity is:0.024697 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:36.935] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:36.935] frame process finished the id is: 5 the obs is:0 
+[10:20:37.037] Init: px average disparity is:0.038583 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.037] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.037] frame process finished the id is: 6 the obs is:0 
+[10:20:37.134] Init: px average disparity is:0.028484 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.134] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.135] frame process finished the id is: 7 the obs is:0 
+[10:20:37.232] Init: px average disparity is:0.035371 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.233] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.233] frame process finished the id is: 8 the obs is:0 
+[10:20:37.334] Init: px average disparity is:0.033589 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.335] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.335] frame process finished the id is: 9 the obs is:0 
+[10:20:37.433] Init: px average disparity is:0.034850 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.433] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.433] frame process finished the id is: 10 the obs is:0 
+[10:20:37.532] Init: px average disparity is:0.040350 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.533] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.533] frame process finished the id is: 11 the obs is:0 
+[10:20:37.632] Init: px average disparity is:0.032975 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.632] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.632] frame process finished the id is: 12 the obs is:0 
+[10:20:37.736] Init: px average disparity is:0.031391 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.736] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.736] frame process finished the id is: 13 the obs is:0 
+[10:20:37.834] Init: px average disparity is:0.039691 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.834] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.834] frame process finished the id is: 14 the obs is:0 
+[10:20:37.889] Odometry x=0.000000, y=0.000000, theta=-0.000000
+[10:20:37.945] Init: px average disparity is:0.042275 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:37.945] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:37.945] frame process finished the id is: 15 the obs is:0 
+[10:20:38.036] Init: px average disparity is:0.031575 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:38.036] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.036] frame process finished the id is: 16 the obs is:0 
+[10:20:38.119] Odometry x=0.000002, y=0.019191, theta=-0.000001
+[10:20:38.139] Init: px average disparity is:0.146645 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:38.139] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.139] frame process finished the id is: 17 the obs is:0 
+[10:20:38.239] Init: px average disparity is:6.448189 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:38.239] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.239] frame process finished the id is: 18 the obs is:0 
+[10:20:38.346] Init: px average disparity is:4.621130 ,While minimum is: 10.000000  KLT tracked : 910
+[10:20:38.346] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.346] frame process finished the id is: 19 the obs is:0 
+[10:20:38.380] Odometry x=0.000210, y=0.051370, theta=0.002326
+[10:20:38.452] Init: px average disparity is:4.932254 ,While minimum is: 10.000000  KLT tracked : 909
+[10:20:38.452] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.452] frame process finished the id is: 20 the obs is:0 
+[10:20:38.544] Init: px average disparity is:9.764128 ,While minimum is: 10.000000  KLT tracked : 908
+[10:20:38.544] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.544] frame process finished the id is: 21 the obs is:0 
+[10:20:38.655] Odometry x=0.000165, y=0.082183, theta=-0.000114
+[10:20:38.741] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:12.609737 ,While minimum is: 10.000000  KLT tracked: 908
+[10:20:38.741] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.741] frame process finished the id is: 22 the obs is:0 
+[10:20:38.863] Odometry x=0.000712, y=0.112498, theta=0.001153
+[10:20:38.869] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:15.638974 ,While minimum is: 10.000000  KLT tracked: 900
+[10:20:38.869] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.869] frame process finished the id is: 23 the obs is:0 
+[10:20:38.967] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:19.774255 ,While minimum is: 10.000000  KLT tracked: 900
+[10:20:38.967] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:38.967] frame process finished the id is: 24 the obs is:0 
+[10:20:39.065] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:29.046910 ,While minimum is: 10.000000  KLT tracked: 900
+[10:20:39.065] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.065] frame process finished the id is: 25 the obs is:0 
+[10:20:39.168] Odometry x=0.000415, y=0.141354, theta=0.007158
+[10:20:39.213] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:27.210892 ,While minimum is: 10.000000  KLT tracked: 900
+[10:20:39.213] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.213] frame process finished the id is: 26 the obs is:0 
+[10:20:39.344] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:33.829964 ,While minimum is: 10.000000  KLT tracked: 900
+[10:20:39.344] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.344] frame process finished the id is: 27 the obs is:0 
+[10:20:39.395] Odometry x=0.000085, y=0.170507, theta=0.015752
+[10:20:39.459] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:40.868315 ,While minimum is: 10.000000  KLT tracked: 896
+[10:20:39.459] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.459] frame process finished the id is: 28 the obs is:0 
+[10:20:39.584] Init: Homography RANSAC (inlier) is:0 ,While 40 inliers minimum required.  px average disparity is:45.785434 ,While minimum is: 10.000000  KLT tracked: 892
+[10:20:39.584] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.584] frame process finished the id is: 29 the obs is:0 
+[10:20:39.632] Odometry x=-0.000306, y=0.199574, theta=0.013922
+[10:20:39.714] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:45.251815 ,While minimum is: 10.000000  KLT tracked: 839
+[10:20:39.714] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.714] frame process finished the id is: 30 the obs is:0 
+[10:20:39.856] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:46.818981 ,While minimum is: 10.000000  KLT tracked: 774
+[10:20:39.856] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.856] frame process finished the id is: 31 the obs is:0 
+[10:20:39.890] Odometry x=-0.000722, y=0.228585, theta=0.013732
+[10:20:39.973] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:44.211681 ,While minimum is: 10.000000  KLT tracked: 765
+[10:20:39.973] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:39.973] frame process finished the id is: 32 the obs is:0 
+[10:20:40.083] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:48.736136 ,While minimum is: 10.000000  KLT tracked: 763
+[10:20:40.084] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:40.084] frame process finished the id is: 33 the obs is:0 
+[10:20:40.117] Odometry x=-0.001206, y=0.257173, theta=0.023926
+[10:20:40.189] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:54.130859 ,While minimum is: 10.000000  KLT tracked: 758
+[10:20:40.189] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:40.189] frame process finished the id is: 34 the obs is:0 
+[10:20:40.307] Init: Homography RANSAC (inlier) is:12 ,While 40 inliers minimum required.  px average disparity is:50.563251 ,While minimum is: 10.000000  KLT tracked: 748
+[10:20:40.307] Init: distance between the first and current frame is x:0.000000 ,z=0.000000,angle between two frames: 0.000000 
+[10:20:40.307] frame process finished the id is: 35 the obs is:0 
+[10:20:40.351] Odometry x=-0.001748, y=0.284811, theta=0.023218
+[10:20:40.427] Init finished: Homography RANSAC (inlier) is:52 ,While 40 inliers minimum required.  px average disparity is:42.409508 ,While minimum is: 10.000000  KLT tracked: 747
+[10:20:40.427] Init: distance between the first and current frame is x:-0.002220 ,z=0.297182,angle between two frames: 0.039505 
+[10:20:40.427] Init: Selected Second frame. 	 The number of features: 52 depth mean:1.063774 min:0.389753
+[10:20:40.427] frame process finished the id is: 36 the obs is:52 
+[10:20:40.606] Odometry x=-0.002220, y=0.297182, theta=0.039505
+[10:20:40.612] After Reprojection Map nMatches:63 ,distance between ekf and vo x:0.000406 ,z=0.000702,angle between two frames:0.000282
+[10:20:40.613]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =26 	 error init =0.066105 	 error end=0.225931
+[10:20:40.613] After pose optimization, distance between ekf and vo x:0.000406 ,z=0.000702,angle between two frames:0.000282
+[10:20:40.613] Update EKF and 3D points the number of feature in the new frame: 261 and number of obs: 261
+[10:20:40.613] frame Scene Depth mean:1.119326 ,depth min:0.794197
+[10:20:40.613] need key frame pitch dis: 0.039536 translation dif:0.336714
+[10:20:40.613] Choose frame as a key frame Scene Depth mean:1.119326 ,depth min:0.794197
+[10:20:40.613] frame process finished the id is: 37 the obs is:261 
+[10:20:40.750] After Reprojection Map nMatches:69 ,distance between ekf and vo x:-0.000645 ,z=0.002144,angle between two frames:0.000132
+[10:20:40.750]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =18 	 error init =0.186285 	 error end=0.131089
+[10:20:40.750] After pose optimization, distance between ekf and vo x:-0.000645 ,z=0.002144,angle between two frames:0.000132
+[10:20:40.750] Update EKF and 3D points the number of feature in the new frame: 270 and number of obs: 270
+[10:20:40.750] frame Scene Depth mean:0.896862 ,depth min:0.069069
+[10:20:40.750] need key frame pitch dis: 0.027415 translation dif:0.043238
+[10:20:40.750] frame process finished the id is: 38 the obs is:270 
+[10:20:40.860] Odometry x=-0.004052, y=0.340382, theta=0.066920
+[10:20:40.918] After Reprojection Map nMatches:70 ,distance between ekf and vo x:-0.000334 ,z=0.000640,angle between two frames:0.000021
+[10:20:40.918]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =10 	 error init =0.326376 	 error end=0.202451
+[10:20:40.918] After pose optimization, distance between ekf and vo x:-0.000334 ,z=0.000640,angle between two frames:0.000021
+[10:20:40.918] Update EKF and 3D points the number of feature in the new frame: 568 and number of obs: 568
+[10:20:40.918] frame Scene Depth mean:0.368712 ,depth min:0.061397
+[10:20:40.918] need key frame pitch dis: 0.041273 translation dif:0.017352
+[10:20:40.918] frame process finished the id is: 39 the obs is:568 
+[10:20:41.090] After Reprojection Map nMatches:155 ,distance between ekf and vo x:-0.000233 ,z=0.000620,angle between two frames:0.000013
+[10:20:41.090]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =47 	 error init =0.450063 	 error end=0.029717
+[10:20:41.090] After pose optimization, distance between ekf and vo x:-0.000233 ,z=0.000620,angle between two frames:0.000013
+[10:20:41.090] Update EKF and 3D points the number of feature in the new frame: 551 and number of obs: 551
+[10:20:41.090] frame Scene Depth mean:0.671157 ,depth min:0.050425
+[10:20:41.090] need key frame pitch dis: 0.043191 translation dif:0.020706
+[10:20:41.090] frame process finished the id is: 40 the obs is:550 
+[10:20:41.198] Odometry x=-0.004957, y=0.357360, theta=0.082727
+[10:20:41.286] After Reprojection Map nMatches:190 ,distance between ekf and vo x:-0.000092 ,z=0.000998,angle between two frames:0.000072
+[10:20:41.287]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =36 	 error init =0.415568 	 error end=0.071722
+[10:20:41.287] After pose optimization, distance between ekf and vo x:-0.000092 ,z=0.000998,angle between two frames:0.000072
+[10:20:41.287] Update EKF and 3D points the number of feature in the new frame: 596 and number of obs: 596
+[10:20:41.287] frame Scene Depth mean:0.258915 ,depth min:0.070779
+[10:20:41.287] need key frame pitch dis: 0.055429 translation dif:0.035108
+[10:20:41.287] frame process finished the id is: 41 the obs is:593 
+[10:20:41.363] Odometry x=-0.003207, y=0.371798, theta=0.094965
+[10:20:41.456] After Reprojection Map nMatches:188 ,distance between ekf and vo x:-0.000032 ,z=0.000185,angle between two frames:0.000054
+[10:20:41.457]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =81 	 error init =0.333955 	 error end=0.033485
+[10:20:41.457] After pose optimization, distance between ekf and vo x:-0.000032 ,z=0.000185,angle between two frames:0.000054
+[10:20:41.457] Update EKF and 3D points the number of feature in the new frame: 604 and number of obs: 604
+[10:20:41.457] frame Scene Depth mean:0.411330 ,depth min:0.053047
+[10:20:41.457] need key frame pitch dis: 0.061488 translation dif:0.046542
+[10:20:41.457] frame process finished the id is: 42 the obs is:601 
+[10:20:41.612] Odometry x=-0.006673, y=0.383139, theta=0.101023
+[10:20:41.626] After Reprojection Map nMatches:176 ,distance between ekf and vo x:-0.000093 ,z=0.000114,angle between two frames:0.000000
+[10:20:41.626]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =42 	 error init =0.439060 	 error end=0.059366
+[10:20:41.626] After pose optimization, distance between ekf and vo x:-0.000093 ,z=0.000114,angle between two frames:0.000000
+[10:20:41.626] Update EKF and 3D points the number of feature in the new frame: 501 and number of obs: 501
+[10:20:41.626] frame Scene Depth mean:0.573178 ,depth min:0.050062
+[10:20:41.626] need key frame pitch dis: 0.061485 translation dif:0.082856
+[10:20:41.626] frame process finished the id is: 43 the obs is:494 
+[10:20:41.796] After Reprojection Map nMatches:145 ,distance between ekf and vo x:0.000016 ,z=0.000263,angle between two frames:0.000526
+[10:20:41.796]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =43 	 error init =0.466757 	 error end=0.044010
+[10:20:41.796] After pose optimization, distance between ekf and vo x:0.000016 ,z=0.000263,angle between two frames:0.000526
+[10:20:41.796] Update EKF and 3D points the number of feature in the new frame: 493 and number of obs: 493
+[10:20:41.796] frame Scene Depth mean:0.828621 ,depth min:0.054413
+[10:20:41.797] need key frame pitch dis: 0.049136 translation dif:0.093024
+[10:20:41.797] frame process finished the id is: 44 the obs is:490 
+[10:20:41.855] Odometry x=-0.010116, y=0.429495, theta=0.088672
+[10:20:41.976] After Reprojection Map nMatches:169 ,distance between ekf and vo x:-0.000219 ,z=0.000439,angle between two frames:0.000116
+[10:20:41.976]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =77 	 error init =0.434014 	 error end=0.037092
+[10:20:41.976] After pose optimization, distance between ekf and vo x:-0.000219 ,z=0.000439,angle between two frames:0.000116
+[10:20:41.976] Update EKF and 3D points the number of feature in the new frame: 545 and number of obs: 545
+[10:20:41.976] frame Scene Depth mean:0.380694 ,depth min:0.050251
+[10:20:41.976] need key frame pitch dis: 0.058835 translation dif:0.105163
+[10:20:41.976] Choose frame as a key frame Scene Depth mean:0.380694 ,depth min:0.050251
+[10:20:41.976] frame process finished the id is: 45 the obs is:534 
+[10:20:42.136] Odometry x=-0.012529, y=0.441483, theta=0.098371
+[10:20:42.165] After Reprojection Map nMatches:206 ,distance between ekf and vo x:-0.000069 ,z=0.000103,angle between two frames:0.000033
+[10:20:42.165]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =72 	 error init =0.352706 	 error end=0.027013
+[10:20:42.165] After pose optimization, distance between ekf and vo x:-0.000069 ,z=0.000103,angle between two frames:0.000033
+[10:20:42.165] Update EKF and 3D points the number of feature in the new frame: 564 and number of obs: 564
+[10:20:42.165] frame Scene Depth mean:0.425541 ,depth min:0.051662
+[10:20:42.166] need key frame pitch dis: 0.058829 translation dif:0.129908
+[10:20:42.166] Choose frame as a key frame Scene Depth mean:0.425541 ,depth min:0.051662
+[10:20:42.166] frame process finished the id is: 46 the obs is:555 
+[10:20:42.358] Odometry x=-0.015150, y=0.469194, theta=0.102875
+[10:20:42.420] After Reprojection Map nMatches:493 ,distance between ekf and vo x:-0.000073 ,z=0.000194,angle between two frames:0.000145
+[10:20:42.421]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =307 	 error init =0.362770 	 error end=0.021620
+[10:20:42.421] After pose optimization, distance between ekf and vo x:-0.000073 ,z=0.000194,angle between two frames:0.000145
+[10:20:42.421] Update EKF and 3D points the number of feature in the new frame: 651 and number of obs: 651
+[10:20:42.422] frame Scene Depth mean:0.471851 ,depth min:0.052606
+[10:20:42.424] need key frame pitch dis: 0.010246 translation dif:0.039031
+[10:20:42.424] frame process finished the id is: 47 the obs is:632 
+[10:20:42.619] Odometry x=-0.016859, y=0.480273, theta=0.108617
+[10:20:42.651] After Reprojection Map nMatches:800 ,distance between ekf and vo x:-0.000082 ,z=0.000129,angle between two frames:0.000003
+[10:20:42.653]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =424 	 error init =0.269874 	 error end=0.081976
+[10:20:42.653] After pose optimization, distance between ekf and vo x:-0.000082 ,z=0.000129,angle between two frames:0.000003
+[10:20:42.653] Update EKF and 3D points the number of feature in the new frame: 717 and number of obs: 717
+[10:20:42.653] frame Scene Depth mean:0.443146 ,depth min:0.050011
+[10:20:42.656] need key frame pitch dis: 0.004510 translation dif:0.024273
+[10:20:42.656] frame process finished the id is: 48 the obs is:701 
+[10:20:42.871] Odometry x=-0.017973, y=0.490197, theta=0.102875
+[10:20:42.901] After Reprojection Map nMatches:804 ,distance between ekf and vo x:-0.000130 ,z=0.000204,angle between two frames:0.000006
+[10:20:42.903]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =332 	 error init =0.279434 	 error end=0.045169
+[10:20:42.903] After pose optimization, distance between ekf and vo x:-0.000130 ,z=0.000204,angle between two frames:0.000006
+[10:20:42.903] Update EKF and 3D points the number of feature in the new frame: 632 and number of obs: 632
+[10:20:42.903] frame Scene Depth mean:0.766199 ,depth min:0.050464
+[10:20:42.906] need key frame pitch dis: 0.004509 translation dif:0.053977
+[10:20:42.906] frame process finished the id is: 49 the obs is:605 
+[10:20:43.155] After Reprojection Map nMatches:737 ,distance between ekf and vo x:-0.000160 ,z=0.000323,angle between two frames:0.000004
+[10:20:43.157]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =352 	 error init =0.255234 	 error end=0.077030
+[10:20:43.157] After pose optimization, distance between ekf and vo x:-0.000160 ,z=0.000323,angle between two frames:0.000004
+[10:20:43.157] Update EKF and 3D points the number of feature in the new frame: 609 and number of obs: 609
+[10:20:43.157] frame Scene Depth mean:1.041065 ,depth min:0.051550
+[10:20:43.160] need key frame pitch dis: 0.019534 translation dif:0.056875
+[10:20:43.160] frame process finished the id is: 50 the obs is:607 
+[10:20:43.175] Odometry x=-0.021121, y=0.522651, theta=0.117899
+[10:20:43.348] Odometry x=-0.022612, y=0.537913, theta=0.135337
+[10:20:43.382] After Reprojection Map nMatches:532 ,distance between ekf and vo x:-0.000149 ,z=0.000252,angle between two frames:0.000005
+[10:20:43.383]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =232 	 error init =0.243929 	 error end=0.064922
+[10:20:43.383] After pose optimization, distance between ekf and vo x:-0.000149 ,z=0.000252,angle between two frames:0.000005
+[10:20:43.383] Update EKF and 3D points the number of feature in the new frame: 425 and number of obs: 425
+[10:20:43.383] frame Scene Depth mean:1.271852 ,depth min:0.054527
+[10:20:43.386] need key frame pitch dis: 0.018263 translation dif:0.084296
+[10:20:43.386] frame process finished the id is: 51 the obs is:413 
+[10:20:43.590] After Reprojection Map nMatches:564 ,distance between ekf and vo x:-0.000160 ,z=0.000227,angle between two frames:0.000001
+[10:20:43.591]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =327 	 error init =0.270805 	 error end=0.063626
+[10:20:43.591] After pose optimization, distance between ekf and vo x:-0.000160 ,z=0.000227,angle between two frames:0.000001
+[10:20:43.592] Update EKF and 3D points the number of feature in the new frame: 502 and number of obs: 502
+[10:20:43.592] frame Scene Depth mean:1.048272 ,depth min:0.053070
+[10:20:43.594] need key frame pitch dis: 0.018105 translation dif:0.090722
+[10:20:43.594] frame process finished the id is: 52 the obs is:496 
+[10:20:43.635] Odometry x=-0.026327, y=0.556118, theta=0.116470
+[10:20:43.806] After Reprojection Map nMatches:583 ,distance between ekf and vo x:-0.000096 ,z=0.000132,angle between two frames:0.000000
+[10:20:43.807]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =236 	 error init =0.265092 	 error end=0.057946
+[10:20:43.807] After pose optimization, distance between ekf and vo x:-0.000096 ,z=0.000132,angle between two frames:0.000000
+[10:20:43.807] Update EKF and 3D points the number of feature in the new frame: 492 and number of obs: 492
+[10:20:43.807] frame Scene Depth mean:1.959483 ,depth min:0.058060
+[10:20:43.810] need key frame pitch dis: 0.009601 translation dif:0.104051
+[10:20:43.810] Choose frame as a key frame Scene Depth mean:1.959483 ,depth min:0.058060
+[10:20:43.810] frame process finished the id is: 53 the obs is:486 
+[10:20:43.846] Odometry x=-0.024599, y=0.569715, theta=0.107966
+[10:20:44.085] After Reprojection Map nMatches:615 ,distance between ekf and vo x:-0.000251 ,z=0.000374,angle between two frames:0.000002
+[10:20:44.087]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =260 	 error init =0.324858 	 error end=0.040353
+[10:20:44.087] After pose optimization, distance between ekf and vo x:-0.000251 ,z=0.000374,angle between two frames:0.000002
+[10:20:44.087] Update EKF and 3D points the number of feature in the new frame: 604 and number of obs: 604
+[10:20:44.087] frame Scene Depth mean:2.121447 ,depth min:0.052486
+[10:20:44.089] need key frame pitch dis: 0.009726 translation dif:0.112490
+[10:20:44.089] Choose frame as a key frame Scene Depth mean:2.121447 ,depth min:0.052486
+[10:20:44.089] frame process finished the id is: 54 the obs is:602 
+[10:20:44.106] Odometry x=-0.025555, y=0.578101, theta=0.108091
+[10:20:44.370] Odometry x=-0.026873, y=0.591473, theta=0.114940
+[10:20:44.386] After Reprojection Map nMatches:717 ,distance between ekf and vo x:-0.000222 ,z=0.000362,angle between two frames:0.000002
+[10:20:44.388]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =307 	 error init =0.324416 	 error end=0.033590
+[10:20:44.388] After pose optimization, distance between ekf and vo x:-0.000222 ,z=0.000362,angle between two frames:0.000002
+[10:20:44.388] Update EKF and 3D points the number of feature in the new frame: 569 and number of obs: 569
+[10:20:44.388] frame Scene Depth mean:1.818960 ,depth min:0.052106
+[10:20:44.390] need key frame pitch dis: 0.006500 translation dif:0.049493
+[10:20:44.390] frame process finished the id is: 55 the obs is:523 
+[10:20:44.600] Odometry x=-0.030581, y=0.623185, theta=0.114251
+[10:20:44.699] After Reprojection Map nMatches:777 ,distance between ekf and vo x:-0.000155 ,z=0.000286,angle between two frames:0.000019
+[10:20:44.700]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =473 	 error init =0.281842 	 error end=0.038164
+[10:20:44.701] After pose optimization, distance between ekf and vo x:-0.000155 ,z=0.000286,angle between two frames:0.000019
+[10:20:44.701] Update EKF and 3D points the number of feature in the new frame: 623 and number of obs: 623
+[10:20:44.701] frame Scene Depth mean:1.549581 ,depth min:0.054669
+[10:20:44.703] need key frame pitch dis: 0.016632 translation dif:0.058774
+[10:20:44.703] frame process finished the id is: 56 the obs is:614 
+[10:20:44.852] Odometry x=-0.031019, y=0.636620, theta=0.124723
+[10:20:44.997] After Reprojection Map nMatches:729 ,distance between ekf and vo x:-0.000165 ,z=0.000235,angle between two frames:0.000005
+[10:20:44.999]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =376 	 error init =0.209678 	 error end=0.046197
+[10:20:44.999] After pose optimization, distance between ekf and vo x:-0.000165 ,z=0.000235,angle between two frames:0.000005
+[10:20:44.999] Update EKF and 3D points the number of feature in the new frame: 581 and number of obs: 581
+[10:20:44.999] frame Scene Depth mean:1.437839 ,depth min:0.055247
+[10:20:45.002] need key frame pitch dis: 0.018132 translation dif:0.068992
+[10:20:45.002] frame process finished the id is: 57 the obs is:580 
+[10:20:45.182] Odometry x=-0.032077, y=0.646784, theta=0.126224
+[10:20:45.293] After Reprojection Map nMatches:651 ,distance between ekf and vo x:-0.000165 ,z=0.000326,angle between two frames:0.000012
+[10:20:45.295]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =334 	 error init =0.205844 	 error end=0.037019
+[10:20:45.295] After pose optimization, distance between ekf and vo x:-0.000165 ,z=0.000326,angle between two frames:0.000012
+[10:20:45.295] Update EKF and 3D points the number of feature in the new frame: 483 and number of obs: 483
+[10:20:45.295] frame Scene Depth mean:1.564713 ,depth min:0.050730
+[10:20:45.297] need key frame pitch dis: 0.027792 translation dif:0.084552
+[10:20:45.297] frame process finished the id is: 58 the obs is:476 
+[10:20:45.347] Odometry x=-0.036153, y=0.661986, theta=0.135883
+[10:20:45.584] After Reprojection Map nMatches:648 ,distance between ekf and vo x:-0.000189 ,z=0.000234,angle between two frames:0.000001
+[10:20:45.586]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =334 	 error init =0.242722 	 error end=0.046622
+[10:20:45.586] After pose optimization, distance between ekf and vo x:-0.000189 ,z=0.000234,angle between two frames:0.000001
+[10:20:45.586] Update EKF and 3D points the number of feature in the new frame: 523 and number of obs: 523
+[10:20:45.586] frame Scene Depth mean:1.863484 ,depth min:0.061359
+[10:20:45.589] need key frame pitch dis: 0.035991 translation dif:0.095154
+[10:20:45.589] frame process finished the id is: 59 the obs is:516 
+[10:20:45.652] Odometry x=-0.037339, y=0.672522, theta=0.144083
+[10:20:45.852] Odometry x=-0.039252, y=0.686340, theta=0.146079
+[10:20:45.867] After Reprojection Map nMatches:615 ,distance between ekf and vo x:-0.000156 ,z=0.000236,angle between two frames:0.000003
+[10:20:45.869]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =346 	 error init =0.204058 	 error end=0.051978
+[10:20:45.869] After pose optimization, distance between ekf and vo x:-0.000156 ,z=0.000236,angle between two frames:0.000003
+[10:20:45.869] Update EKF and 3D points the number of feature in the new frame: 519 and number of obs: 519
+[10:20:45.869] frame Scene Depth mean:1.606055 ,depth min:0.050548
+[10:20:45.872] need key frame pitch dis: 0.033935 translation dif:0.119550
+[10:20:45.872] Choose frame as a key frame Scene Depth mean:1.606055 ,depth min:0.050548
+[10:20:45.872] frame process finished the id is: 60 the obs is:509 
+[10:20:46.103] Odometry x=-0.040854, y=0.696668, theta=0.142027
+[10:20:46.129] After Reprojection Map nMatches:614 ,distance between ekf and vo x:-0.000315 ,z=0.000379,angle between two frames:0.000002
+[10:20:46.131]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =278 	 error init =0.278495 	 error end=0.076004
+[10:20:46.131] After pose optimization, distance between ekf and vo x:-0.000315 ,z=0.000379,angle between two frames:0.000002
+[10:20:46.131] Update EKF and 3D points the number of feature in the new frame: 433 and number of obs: 433
+[10:20:46.131] frame Scene Depth mean:1.351637 ,depth min:0.050404
+[10:20:46.134] need key frame pitch dis: 0.033936 translation dif:0.148239
+[10:20:46.134] Choose frame as a key frame Scene Depth mean:1.351637 ,depth min:0.050404
+[10:20:46.135] frame process finished the id is: 61 the obs is:424 
+[10:20:46.356] Odometry x=-0.045158, y=0.728691, theta=0.152892
+[10:20:46.536] After Reprojection Map nMatches:796 ,distance between ekf and vo x:-0.000185 ,z=0.000484,angle between two frames:0.000020
+[10:20:46.538]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =478 	 error init =0.149807 	 error end=0.160084
+[10:20:46.538] After pose optimization, distance between ekf and vo x:-0.000185 ,z=0.000484,angle between two frames:0.000020
+[10:20:46.538] Update EKF and 3D points the number of feature in the new frame: 663 and number of obs: 663
+[10:20:46.538] frame Scene Depth mean:1.301656 ,depth min:0.052708
+[10:20:46.542] need key frame pitch dis: 0.002512 translation dif:0.045804
+[10:20:46.542] frame process finished the id is: 62 the obs is:660 
+[10:20:46.590] Odometry x=-0.047101, y=0.742044, theta=0.144539
+[10:20:46.842] Odometry x=-0.049074, y=0.756152, theta=0.152498
+[10:20:46.910] After Reprojection Map nMatches:767 ,distance between ekf and vo x:-0.000205 ,z=0.000395,angle between two frames:0.000011
+[10:20:46.913]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =379 	 error init =0.225193 	 error end=0.066487
+[10:20:46.913] After pose optimization, distance between ekf and vo x:-0.000205 ,z=0.000395,angle between two frames:0.000011
+[10:20:46.913] Update EKF and 3D points the number of feature in the new frame: 573 and number of obs: 573
+[10:20:46.913] frame Scene Depth mean:1.111669 ,depth min:0.050146
+[10:20:46.916] need key frame pitch dis: 0.013178 translation dif:0.056771
+[10:20:46.916] frame process finished the id is: 63 the obs is:569 
+[10:20:47.235] After Reprojection Map nMatches:692 ,distance between ekf and vo x:-0.000168 ,z=0.000232,angle between two frames:0.000001
+[10:20:47.237]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =347 	 error init =0.189197 	 error end=0.091834
+[10:20:47.237] After pose optimization, distance between ekf and vo x:-0.000168 ,z=0.000232,angle between two frames:0.000001
+[10:20:47.237] Update EKF and 3D points the number of feature in the new frame: 497 and number of obs: 497
+[10:20:47.237] frame Scene Depth mean:1.700454 ,depth min:0.050971
+[10:20:47.240] need key frame pitch dis: 0.014498 translation dif:0.059302
+[10:20:47.240] frame process finished the id is: 64 the obs is:490 
+[10:20:47.592] After Reprojection Map nMatches:757 ,distance between ekf and vo x:-0.000127 ,z=0.000145,angle between two frames:0.000002
+[10:20:47.594]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =411 	 error init =0.229106 	 error end=0.076975
+[10:20:47.594] After pose optimization, distance between ekf and vo x:-0.000127 ,z=0.000145,angle between two frames:0.000002
+[10:20:47.594] Update EKF and 3D points the number of feature in the new frame: 612 and number of obs: 612
+[10:20:47.594] frame Scene Depth mean:1.873909 ,depth min:0.050493
+[10:20:47.597] need key frame pitch dis: 0.014662 translation dif:0.059873
+[10:20:47.597] frame process finished the id is: 65 the obs is:612 
+[10:20:47.963] After Reprojection Map nMatches:762 ,distance between ekf and vo x:-0.000143 ,z=0.000143,angle between two frames:0.000001
+[10:20:47.965]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =404 	 error init =0.247680 	 error end=0.040723
+[10:20:47.965] After pose optimization, distance between ekf and vo x:-0.000143 ,z=0.000143,angle between two frames:0.000001
+[10:20:47.965] Update EKF and 3D points the number of feature in the new frame: 645 and number of obs: 645
+[10:20:47.965] frame Scene Depth mean:1.736180 ,depth min:0.050366
+[10:20:47.968] need key frame pitch dis: 0.014682 translation dif:0.060007
+[10:20:47.968] frame process finished the id is: 66 the obs is:645 
+[10:20:48.331] After Reprojection Map nMatches:762 ,distance between ekf and vo x:-0.000140 ,z=0.000163,angle between two frames:0.000003
+[10:20:48.333]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =373 	 error init =0.238497 	 error end=0.038700
+[10:20:48.333] After pose optimization, distance between ekf and vo x:-0.000140 ,z=0.000163,angle between two frames:0.000003
+[10:20:48.333] Update EKF and 3D points the number of feature in the new frame: 621 and number of obs: 621
+[10:20:48.333] frame Scene Depth mean:1.999851 ,depth min:0.050617
+[10:20:48.337] need key frame pitch dis: 0.014685 translation dif:0.060043
+[10:20:48.337] frame process finished the id is: 67 the obs is:621 
+[10:20:48.616] Odometry x=-0.049048, y=0.756149, theta=0.156712
+[10:20:48.699] After Reprojection Map nMatches:782 ,distance between ekf and vo x:-0.000232 ,z=0.000234,angle between two frames:0.000003
+[10:20:48.701]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =398 	 error init =0.247103 	 error end=0.041496
+[10:20:48.701] After pose optimization, distance between ekf and vo x:-0.000232 ,z=0.000234,angle between two frames:0.000003
+[10:20:48.701] Update EKF and 3D points the number of feature in the new frame: 634 and number of obs: 634
+[10:20:48.701] frame Scene Depth mean:1.798136 ,depth min:0.053274
+[10:20:48.705] need key frame pitch dis: 0.009908 translation dif:0.060626
+[10:20:48.705] frame process finished the id is: 68 the obs is:634 
+[10:20:48.873] Odometry x=-0.048954, y=0.756751, theta=0.151935
+[10:20:49.067] After Reprojection Map nMatches:808 ,distance between ekf and vo x:-0.000169 ,z=0.000265,angle between two frames:0.000004
+[10:20:49.069]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =348 	 error init =0.251738 	 error end=0.041796
+[10:20:49.069] After pose optimization, distance between ekf and vo x:-0.000169 ,z=0.000265,angle between two frames:0.000004
+[10:20:49.069] Update EKF and 3D points the number of feature in the new frame: 605 and number of obs: 605
+[10:20:49.069] frame Scene Depth mean:1.706425 ,depth min:0.053994
+[10:20:49.073] need key frame pitch dis: 0.008808 translation dif:0.060783
+[10:20:49.073] frame process finished the id is: 69 the obs is:605 
+[10:20:49.178] Odometry x=-0.048959, y=0.756909, theta=0.133219
+[10:20:49.365] Odometry x=-0.049211, y=0.757101, theta=0.073533
+[10:20:49.420] After Reprojection Map nMatches:752 ,distance between ekf and vo x:-0.000134 ,z=0.000237,angle between two frames:0.000002
+[10:20:49.422]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =446 	 error init =0.205824 	 error end=0.034063
+[10:20:49.422] After pose optimization, distance between ekf and vo x:-0.000134 ,z=0.000237,angle between two frames:0.000002
+[10:20:49.422] Update EKF and 3D points the number of feature in the new frame: 617 and number of obs: 617
+[10:20:49.422] frame Scene Depth mean:1.797201 ,depth min:0.059776
+[10:20:49.427] need key frame pitch dis: 0.160027 translation dif:0.061114
+[10:20:49.427] Choose frame as a key frame Scene Depth mean:1.797201 ,depth min:0.059776
+[10:20:49.427] frame process finished the id is: 70 the obs is:617 
+[10:20:49.609] Odometry x=-0.049174, y=0.757213, theta=-0.018000
+[10:20:49.825] After Reprojection Map nMatches:836 ,distance between ekf and vo x:-0.000281 ,z=0.000969,angle between two frames:0.000014
+[10:20:49.827]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =421 	 error init =0.128963 	 error end=0.159402
+[10:20:49.827] After pose optimization, distance between ekf and vo x:-0.000281 ,z=0.000969,angle between two frames:0.000014
+[10:20:49.827] Update EKF and 3D points the number of feature in the new frame: 519 and number of obs: 519
+[10:20:49.827] frame Scene Depth mean:1.603110 ,depth min:0.052207
+[10:20:49.832] need key frame pitch dis: 0.209584 translation dif:0.061853
+[10:20:49.832] Choose frame as a key frame Scene Depth mean:1.603110 ,depth min:0.052207
+[10:20:49.832] frame process finished the id is: 71 the obs is:519 
+[10:20:50.520] After Reprojection Map nMatches:1069 ,distance between ekf and vo x:-0.000008 ,z=0.000463,angle between two frames:0.000006
+[10:20:50.523]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =517 	 error init =0.198462 	 error end=0.284892
+[10:20:50.523] After pose optimization, distance between ekf and vo x:-0.000008 ,z=0.000463,angle between two frames:0.000006
+[10:20:50.523] Update EKF and 3D points the number of feature in the new frame: 915 and number of obs: 915
+[10:20:50.523] frame Scene Depth mean:1.384134 ,depth min:0.050409
+[10:20:50.532] need key frame pitch dis: 0.182419 translation dif:0.181454
+[10:20:50.532] Choose frame as a key frame Scene Depth mean:1.384134 ,depth min:0.050409
+[10:20:50.532] frame process finished the id is: 72 the obs is:913 
+[10:20:50.857] Odometry x=-0.048787, y=0.758062, theta=-0.074328
+[10:20:51.172] Odometry x=-0.048672, y=0.758906, theta=-0.081693
+[10:20:51.383] After Reprojection Map nMatches:1289 ,distance between ekf and vo x:0.000250 ,z=0.000430,angle between two frames:0.000015
+[10:20:51.386] Odometry x=-0.047957, y=0.767019, theta=-0.075849
+[10:20:51.387]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =522 	 error init =0.210831 	 error end=0.446211
+[10:20:51.387] After pose optimization, distance between ekf and vo x:0.000250 ,z=0.000430,angle between two frames:0.000015
+[10:20:51.387] Update EKF and 3D points the number of feature in the new frame: 988 and number of obs: 988
+[10:20:51.387] frame Scene Depth mean:1.231971 ,depth min:0.051083
+[10:20:51.395] need key frame pitch dis: 0.183860 translation dif:0.210685
+[10:20:51.395] Choose frame as a key frame Scene Depth mean:1.231971 ,depth min:0.051083
+[10:20:51.395] frame process finished the id is: 73 the obs is:963 
+[10:20:51.610] Odometry x=-0.045535, y=0.791270, theta=-0.073662
+[10:20:51.854] Odometry x=-0.044540, y=0.804622, theta=-0.074891
+[10:20:52.146] Odometry x=-0.043523, y=0.818017, theta=-0.073697
+[10:20:52.190] After Reprojection Map nMatches:1108 ,distance between ekf and vo x:0.000293 ,z=0.000333,angle between two frames:0.000021
+[10:20:52.194]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =522 	 error init =0.173647 	 error end=0.482825
+[10:20:52.194] After pose optimization, distance between ekf and vo x:0.000293 ,z=0.000333,angle between two frames:0.000021
+[10:20:52.194] Update EKF and 3D points the number of feature in the new frame: 794 and number of obs: 794
+[10:20:52.194] frame Scene Depth mean:1.450256 ,depth min:0.050036
+[10:20:52.201] need key frame pitch dis: 0.336699 translation dif:0.728371
+[10:20:52.201] Choose frame as a key frame Scene Depth mean:1.450256 ,depth min:0.050036
+[10:20:52.201] frame process finished the id is: 74 the obs is:760 
+[10:20:52.364] Odometry x=-0.042844, y=0.821658, theta=-0.072831
+[10:20:52.650] Odometry x=-0.042441, y=0.831963, theta=-0.065351
+[10:20:52.883] Odometry x=-0.041689, y=0.844840, theta=-0.068265
+[10:20:53.075] After Reprojection Map nMatches:1113 ,distance between ekf and vo x:0.000447 ,z=0.000117,angle between two frames:0.000012
+[10:20:53.079]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =472 	 error init =0.237856 	 error end=0.583133
+[10:20:53.079] After pose optimization, distance between ekf and vo x:0.000447 ,z=0.000117,angle between two frames:0.000012
+[10:20:53.079] Update EKF and 3D points the number of feature in the new frame: 845 and number of obs: 845
+[10:20:53.080] frame Scene Depth mean:2.262352 ,depth min:0.053405
+[10:20:53.086] need key frame pitch dis: 0.343813 translation dif:0.756215
+[10:20:53.086] Choose frame as a key frame Scene Depth mean:2.262352 ,depth min:0.053405
+[10:20:53.086] frame process finished the id is: 75 the obs is:831 
+[10:20:53.184] Odometry x=-0.041597, y=0.849977, theta=-0.079944
+[10:20:53.347] Odometry x=-0.040940, y=0.860240, theta=-0.089975
+[10:20:53.602] Odometry x=-0.040910, y=0.875071, theta=-0.082411
+[10:20:53.856] After Reprojection Map nMatches:907 ,distance between ekf and vo x:0.000205 ,z=0.000722,angle between two frames:0.000016
+[10:20:53.859]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =478 	 error init =0.192160 	 error end=0.281536
+[10:20:53.859] After pose optimization, distance between ekf and vo x:0.000205 ,z=0.000722,angle between two frames:0.000016
+[10:20:53.859] Update EKF and 3D points the number of feature in the new frame: 740 and number of obs: 740
+[10:20:53.859] frame Scene Depth mean:2.603051 ,depth min:0.055046
+[10:20:53.867] need key frame pitch dis: 0.197197 translation dif:0.310402
+[10:20:53.867] Choose frame as a key frame Scene Depth mean:2.603051 ,depth min:0.055046
+[10:20:53.867] frame process finished the id is: 76 the obs is:724 
+[10:20:53.890] Odometry x=-0.040201, y=0.879725, theta=-0.089231
+[10:20:54.116] Odometry x=-0.040383, y=0.888813, theta=-0.072634
+[10:20:54.368] Odometry x=-0.039560, y=0.901618, theta=-0.080717
+[10:20:54.612] Odometry x=-0.038107, y=0.914921, theta=-0.092795
+[10:20:54.614] After Reprojection Map nMatches:882 ,distance between ekf and vo x:0.000515 ,z=-0.000017,angle between two frames:0.000012
+[10:20:54.619]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =315 	 error init =0.271659 	 error end=0.461687
+[10:20:54.619] After pose optimization, distance between ekf and vo x:0.000515 ,z=-0.000017,angle between two frames:0.000012
+[10:20:54.619] Update EKF and 3D points the number of feature in the new frame: 594 and number of obs: 594
+[10:20:54.619] frame Scene Depth mean:3.257475 ,depth min:0.051395
+[10:20:54.624] need key frame pitch dis: 0.207711 translation dif:0.451634
+[10:20:54.624] Choose frame as a key frame Scene Depth mean:3.257475 ,depth min:0.051395
+[10:20:54.625] frame process finished the id is: 77 the obs is:590 
+[10:20:54.862] Odometry x=-0.037538, y=0.917179, theta=-0.109346
+[10:20:55.152] Odometry x=-0.036942, y=0.927412, theta=-0.121130
+[10:20:55.260] After Reprojection Map nMatches:885 ,distance between ekf and vo x:0.000319 ,z=0.000142,angle between two frames:0.000012
+[10:20:55.264]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =434 	 error init =0.245980 	 error end=0.242531
+[10:20:55.264] After pose optimization, distance between ekf and vo x:0.000319 ,z=0.000142,angle between two frames:0.000012
+[10:20:55.264] Update EKF and 3D points the number of feature in the new frame: 835 and number of obs: 835
+[10:20:55.264] frame Scene Depth mean:3.117974 ,depth min:0.058816
+[10:20:55.270] need key frame pitch dis: 0.232530 translation dif:0.469815
+[10:20:55.270] Choose frame as a key frame Scene Depth mean:3.117974 ,depth min:0.058816
+[10:20:55.270] frame process finished the id is: 78 the obs is:833 
+[10:20:55.385] Odometry x=-0.031683, y=0.935628, theta=-0.134165
+[10:20:55.613] Odometry x=-0.030361, y=0.945746, theta=-0.137214
+[10:20:55.845] Odometry x=-0.028623, y=0.958541, theta=-0.144398
+[10:20:56.112] Odometry x=-0.026650, y=0.972113, theta=-0.149832
+[10:20:56.191] After Reprojection Map nMatches:1091 ,distance between ekf and vo x:0.000321 ,z=0.000097,angle between two frames:0.000010
+[10:20:56.196]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =605 	 error init =0.213779 	 error end=0.221622
+[10:20:56.197] After pose optimization, distance between ekf and vo x:0.000321 ,z=0.000097,angle between two frames:0.000010
+[10:20:56.197] Update EKF and 3D points the number of feature in the new frame: 963 and number of obs: 963
+[10:20:56.197] frame Scene Depth mean:2.415905 ,depth min:0.053997
+[10:20:56.208] need key frame pitch dis: 0.244640 translation dif:0.396994
+[10:20:56.208] Choose frame as a key frame Scene Depth mean:2.415905 ,depth min:0.053997
+[10:20:56.208] frame process finished the id is: 79 the obs is:951 
+[10:20:56.367] Odometry x=-0.025959, y=0.975094, theta=-0.136549
+[10:20:56.619] Odometry x=-0.024576, y=0.985569, theta=-0.143426
+[10:20:56.841] Odometry x=-0.022501, y=0.998423, theta=-0.148076
+[10:20:57.135] After Reprojection Map nMatches:1161 ,distance between ekf and vo x:0.000279 ,z=0.000257,angle between two frames:0.000010
+[10:20:57.140]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =573 	 error init =0.235062 	 error end=0.283560
+[10:20:57.140] After pose optimization, distance between ekf and vo x:0.000279 ,z=0.000257,angle between two frames:0.000010
+[10:20:57.140] Update EKF and 3D points the number of feature in the new frame: 762 and number of obs: 762
+[10:20:57.140] frame Scene Depth mean:2.755920 ,depth min:0.051939
+[10:20:57.149] need key frame pitch dis: 0.245614 translation dif:0.426330
+[10:20:57.149] Choose frame as a key frame Scene Depth mean:2.755920 ,depth min:0.051939
+[10:20:57.149] frame process finished the id is: 80 the obs is:748 
+[10:20:57.204] Odometry x=-0.023081, y=1.004424, theta=-0.137523
+[10:20:57.379] Odometry x=-0.021560, y=1.015209, theta=-0.132328
+[10:20:57.616] Odometry x=-0.019758, y=1.029016, theta=-0.132953
+[10:20:57.853] Odometry x=-0.017595, y=1.043296, theta=-0.141266
+[10:20:58.103] Odometry x=-0.015518, y=1.057912, theta=-0.138598
+[10:20:58.313] After Reprojection Map nMatches:1215 ,distance between ekf and vo x:0.000773 ,z=0.000113,angle between two frames:0.000041
+[10:20:58.319]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =644 	 error init =0.242413 	 error end=0.294771
+[10:20:58.319] After pose optimization, distance between ekf and vo x:0.000773 ,z=0.000113,angle between two frames:0.000041
+[10:20:58.319] Update EKF and 3D points the number of feature in the new frame: 914 and number of obs: 914
+[10:20:58.320] frame Scene Depth mean:2.788757 ,depth min:0.055392
+[10:20:58.334] need key frame pitch dis: 0.251844 translation dif:0.477522
+[10:20:58.334] Choose frame as a key frame Scene Depth mean:2.788757 ,depth min:0.055392
+[10:20:58.334] frame process finished the id is: 81 the obs is:897 
+[10:20:58.363] Odometry x=-0.017204, y=1.055550, theta=-0.143753
+[10:20:58.617] Odometry x=-0.015596, y=1.066608, theta=-0.144115
+[10:20:58.848] Odometry x=-0.013437, y=1.081197, theta=-0.144693
+[10:20:59.184] Odometry x=-0.011576, y=1.095007, theta=-0.146940
+[10:20:59.360] Odometry x=-0.009630, y=1.109938, theta=-0.152189
+[10:20:59.608] Odometry x=-0.007463, y=1.125031, theta=-0.155026
+[10:20:59.834] After Reprojection Map nMatches:1349 ,distance between ekf and vo x:0.000773 ,z=0.000414,angle between two frames:0.000039
+[10:20:59.839]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =763 	 error init =0.210302 	 error end=0.241895
+[10:20:59.839] After pose optimization, distance between ekf and vo x:0.000773 ,z=0.000414,angle between two frames:0.000039
+[10:20:59.839] Update EKF and 3D points the number of feature in the new frame: 1003 and number of obs: 1003
+[10:20:59.840] frame Scene Depth mean:3.207063 ,depth min:0.050999
+[10:20:59.855] need key frame pitch dis: 0.212593 translation dif:0.544273
+[10:20:59.855] Choose frame as a key frame Scene Depth mean:3.207063 ,depth min:0.050999
+[10:20:59.855] frame process finished the id is: 82 the obs is:964 
+[10:20:59.883] Odometry x=-0.007950, y=1.122090, theta=-0.104502
+[10:21:00.104] Odometry x=-0.005694, y=1.134642, theta=-0.109263
+[10:21:00.357] Odometry x=-0.003355, y=1.148271, theta=-0.100632
+[10:21:00.618] Odometry x=-0.001802, y=1.162942, theta=-0.088850
+[10:21:00.869] Odometry x=-0.000256, y=1.177911, theta=-0.051203
+[10:21:01.043] After Reprojection Map nMatches:1144 ,distance between ekf and vo x:0.000424 ,z=0.000214,angle between two frames:0.000015
+[10:21:01.050]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =566 	 error init =0.227422 	 error end=0.395761
+[10:21:01.050] After pose optimization, distance between ekf and vo x:0.000424 ,z=0.000214,angle between two frames:0.000015
+[10:21:01.050] Update EKF and 3D points the number of feature in the new frame: 734 and number of obs: 734
+[10:21:01.050] frame Scene Depth mean:3.304555 ,depth min:0.052090
+[10:21:01.060] need key frame pitch dis: 0.156298 translation dif:0.598968
+[10:21:01.060] Choose frame as a key frame Scene Depth mean:3.304555 ,depth min:0.052090
+[10:21:01.060] frame process finished the id is: 83 the obs is:719 
+[10:21:01.148] Odometry x=-0.001356, y=1.176580, theta=-0.048207
+[10:21:01.348] Odometry x=-0.000712, y=1.187823, theta=-0.043380
+[10:21:01.593] Odometry x=-0.006074, y=1.199350, theta=-0.028819
+[10:21:01.863] Odometry x=-0.007009, y=1.214819, theta=-0.015008
+[10:21:02.087] Odometry x=-0.007048, y=1.229942, theta=-0.014105
+[10:21:02.342] Odometry x=-0.006998, y=1.244998, theta=-0.019480
+[10:21:02.450] After Reprojection Map nMatches:1365 ,distance between ekf and vo x:0.000639 ,z=0.000314,angle between two frames:0.000028
+[10:21:02.455]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =676 	 error init =0.219299 	 error end=0.301444
+[10:21:02.455] After pose optimization, distance between ekf and vo x:0.000639 ,z=0.000314,angle between two frames:0.000028
+[10:21:02.455] Update EKF and 3D points the number of feature in the new frame: 831 and number of obs: 831
+[10:21:02.456] frame Scene Depth mean:2.972515 ,depth min:0.051018
+[10:21:02.464] need key frame pitch dis: 0.126789 translation dif:0.662836
+[10:21:02.464] Choose frame as a key frame Scene Depth mean:2.972515 ,depth min:0.051018
+[10:21:02.464] frame process finished the id is: 84 the obs is:795 
+[10:21:02.636] Odometry x=-0.005244, y=1.240626, theta=-0.018697
+[10:21:02.858] Odometry x=-0.005231, y=1.251895, theta=-0.015288
+[10:21:03.168] Odometry x=-0.004960, y=1.266175, theta=-0.024948
+[10:21:03.359] Odometry x=-0.004536, y=1.280967, theta=-0.000631
+[10:21:03.600] Odometry x=-0.006623, y=1.295594, theta=0.012154
+[10:21:03.865] After Reprojection Map nMatches:1313 ,distance between ekf and vo x:0.000834 ,z=0.000032,angle between two frames:0.000025
+[10:21:03.869]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =638 	 error init =0.188172 	 error end=0.274882
+[10:21:03.869] After pose optimization, distance between ekf and vo x:0.000834 ,z=0.000032,angle between two frames:0.000025
+[10:21:03.869] Update EKF and 3D points the number of feature in the new frame: 798 and number of obs: 798
+[10:21:03.869] frame Scene Depth mean:2.233224 ,depth min:0.054775
+[10:21:03.877] need key frame pitch dis: 0.448303 translation dif:1.159576
+[10:21:03.877] Choose frame as a key frame Scene Depth mean:2.233224 ,depth min:0.054775
+[10:21:03.877] frame process finished the id is: 85 the obs is:760 
+[10:21:03.877] Odometry x=-0.007418, y=1.294606, theta=0.038536
+[10:21:04.111] Odometry x=-0.008500, y=1.307871, theta=0.031453
+[10:21:04.345] Odometry x=-0.010974, y=1.322633, theta=0.003206
+[10:21:05.309] After Reprojection Map nMatches:1415 ,distance between ekf and vo x:0.000898 ,z=0.000114,angle between two frames:0.000030
+[10:21:05.314]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =792 	 error init =0.126577 	 error end=0.221054
+[10:21:05.314] After pose optimization, distance between ekf and vo x:0.000898 ,z=0.000114,angle between two frames:0.000030
+[10:21:05.314] Update EKF and 3D points the number of feature in the new frame: 932 and number of obs: 932
+[10:21:05.314] frame Scene Depth mean:2.752111 ,depth min:0.051011
+[10:21:05.323] need key frame pitch dis: 0.241346 translation dif:1.218685
+[10:21:05.323] Choose frame as a key frame Scene Depth mean:2.752111 ,depth min:0.051011
+[10:21:05.323] frame process finished the id is: 86 the obs is:915 
+[10:21:05.610] Odometry x=-0.010802, y=1.317603, theta=0.022522
+[10:21:05.884] Odometry x=-0.011005, y=1.320160, theta=0.025018
+[10:21:06.123] Odometry x=-0.011650, y=1.327855, theta=0.025097
+[10:21:06.351] Odometry x=-0.011939, y=1.338272, theta=0.034788
+[10:21:06.590] Odometry x=-0.013258, y=1.349179, theta=0.048545
+[10:21:06.859] Odometry x=-0.014026, y=1.360399, theta=0.047653
+[10:21:07.180] Odometry x=-0.014865, y=1.371309, theta=0.043609
+[10:21:07.298] After Reprojection Map nMatches:1769 ,distance between ekf and vo x:0.001226 ,z=-0.000104,angle between two frames:0.000043
+[10:21:07.305]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =913 	 error init =0.167427 	 error end=0.361402
+[10:21:07.305] After pose optimization, distance between ekf and vo x:0.001226 ,z=-0.000104,angle between two frames:0.000043
+[10:21:07.305] Update EKF and 3D points the number of feature in the new frame: 1229 and number of obs: 1229
+[10:21:07.305] frame Scene Depth mean:2.680220 ,depth min:0.051892
+[10:21:07.316] need key frame pitch dis: 0.298559 translation dif:1.540717
+[10:21:07.316] Choose frame as a key frame Scene Depth mean:2.680220 ,depth min:0.051892
+[10:21:07.316] frame process finished the id is: 87 the obs is:1191 
+[10:21:07.364] Odometry x=-0.014103, y=1.367176, theta=0.064859
+[10:21:07.613] Odometry x=-0.014782, y=1.375312, theta=0.052747
+[10:21:07.878] Odometry x=-0.015331, y=1.385891, theta=0.055953
+[10:21:08.120] Odometry x=-0.016487, y=1.397260, theta=0.042873
+[10:21:08.375] Odometry x=-0.017015, y=1.407993, theta=0.052606
+[10:21:08.593] Odometry x=-0.017732, y=1.418792, theta=0.070946
+[10:21:08.605] After Reprojection Map nMatches:1392 ,distance between ekf and vo x:0.000975 ,z=0.000077,angle between two frames:0.000034
+[10:21:08.612]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =693 	 error init =0.137100 	 error end=0.351897
+[10:21:08.612] After pose optimization, distance between ekf and vo x:0.000975 ,z=0.000077,angle between two frames:0.000034
+[10:21:08.612] Update EKF and 3D points the number of feature in the new frame: 938 and number of obs: 938
+[10:21:08.612] frame Scene Depth mean:2.186973 ,depth min:0.050907
+[10:21:08.622] need key frame pitch dis: 0.416149 translation dif:1.284730
+[10:21:08.622] Choose frame as a key frame Scene Depth mean:2.186973 ,depth min:0.050907
+[10:21:08.623] frame process finished the id is: 88 the obs is:891 
+[10:21:08.865] Odometry x=-0.018890, y=1.434233, theta=0.082306
+[10:21:09.136] Odometry x=-0.020374, y=1.445835, theta=0.092425
+[10:21:09.366] Odometry x=-0.021497, y=1.456667, theta=0.101006
+[10:21:09.623] Odometry x=-0.022494, y=1.467251, theta=0.073283
+[10:21:09.840] Odometry x=-0.023686, y=1.479312, theta=0.060277
+[10:21:09.849] After Reprojection Map nMatches:1231 ,distance between ekf and vo x:0.000701 ,z=0.000225,angle between two frames:0.000021
+[10:21:09.854]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =658 	 error init =0.088706 	 error end=0.488289
+[10:21:09.855] After pose optimization, distance between ekf and vo x:0.000701 ,z=0.000225,angle between two frames:0.000021
+[10:21:09.855] Update EKF and 3D points the number of feature in the new frame: 805 and number of obs: 805
+[10:21:09.855] frame Scene Depth mean:2.124111 ,depth min:0.050617
+[10:21:09.864] need key frame pitch dis: 0.391377 translation dif:1.331073
+[10:21:09.864] Choose frame as a key frame Scene Depth mean:2.124111 ,depth min:0.050617
+[10:21:09.864] frame process finished the id is: 89 the obs is:782 
+[10:21:10.110] Odometry x=-0.023031, y=1.477414, theta=0.095461
+[10:21:10.340] Odometry x=-0.023928, y=1.485767, theta=0.095238
+[10:21:10.598] Odometry x=-0.025007, y=1.496015, theta=0.081137
+[10:21:11.033] After Reprojection Map nMatches:1067 ,distance between ekf and vo x:0.000922 ,z=0.000268,angle between two frames:0.000039
+[10:21:11.037]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =476 	 error init =0.171033 	 error end=1.004764
+[10:21:11.037] After pose optimization, distance between ekf and vo x:0.000922 ,z=0.000268,angle between two frames:0.000039
+[10:21:11.037] Update EKF and 3D points the number of feature in the new frame: 623 and number of obs: 623
+[10:21:11.037] frame Scene Depth mean:1.948019 ,depth min:0.050490
+[10:21:11.044] need key frame pitch dis: 0.401801 translation dif:1.345544
+[10:21:11.044] Choose frame as a key frame Scene Depth mean:1.948019 ,depth min:0.050490
+[10:21:11.044] frame process finished the id is: 90 the obs is:604 
+[10:21:11.877] Odometry x=-0.024751, y=1.492792, theta=0.085037
+[10:21:12.117] Odometry x=-0.024777, y=1.492803, theta=0.085787
+[10:21:12.372] Odometry x=-0.025072, y=1.492959, theta=0.028303
+[10:21:12.620] Odometry x=-0.025064, y=1.492978, theta=-0.072722
+[10:21:12.868] Odometry x=-0.025376, y=1.492789, theta=-0.217997
+[10:21:13.173] Odometry x=-0.025532, y=1.493115, theta=-0.371143
+[10:21:13.887] After Reprojection Map nMatches:1721 ,distance between ekf and vo x:0.001193 ,z=0.000261,angle between two frames:0.000035
+[10:21:13.894]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =777 	 error init =0.236517 	 error end=0.492771
+[10:21:13.894] After pose optimization, distance between ekf and vo x:0.001193 ,z=0.000261,angle between two frames:0.000035
+[10:21:13.894] Update EKF and 3D points the number of feature in the new frame: 1565 and number of obs: 1565
+[10:21:13.894] frame Scene Depth mean:2.799137 ,depth min:0.057893
+[10:21:13.905] need key frame pitch dis: 0.733665 translation dif:1.666964
+[10:21:13.905] Choose frame as a key frame Scene Depth mean:2.799137 ,depth min:0.057893
+[10:21:13.905] frame process finished the id is: 91 the obs is:1559 
+[10:21:14.612] Odometry x=-0.025016, y=1.493052, theta=-0.370247
+[10:21:14.852] Odometry x=-0.025053, y=1.493100, theta=-0.371348
+[10:21:15.188] Odometry x=-0.025065, y=1.493119, theta=-0.398818
+[10:21:15.364] Odometry x=-0.025210, y=1.493188, theta=-0.476611
+[10:21:15.640] Odometry x=-0.025242, y=1.493341, theta=-0.562039
+[10:21:17.163] Odometry x=-0.025243, y=1.493342, theta=-0.597575
+[10:21:17.189] After Reprojection Map nMatches:2194 ,distance between ekf and vo x:0.000226 ,z=-0.000059,angle between two frames:0.000006
+[10:21:17.202]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =809 	 error init =0.588681 	 error end=0.406745
+[10:21:17.202] After pose optimization, distance between ekf and vo x:0.370899 ,z=-0.042705,angle between two frames:0.017903
+[10:21:17.202] frame process finished the id is: 91 the obs is:1559 
+[10:21:17.353] Odometry x=-0.025243, y=1.493345, theta=-0.629242
+[10:21:17.599] Odometry x=-0.024928, y=1.493459, theta=-0.704382
+[10:21:17.865] Odometry x=-0.024044, y=1.494054, theta=-0.812803
+[10:21:18.099] Odometry x=-0.024027, y=1.494056, theta=-0.896901
+[10:21:18.377] Odometry x=-0.024010, y=1.494051, theta=-0.966222
+[10:21:18.616] Odometry x=-0.024006, y=1.494050, theta=-1.031920
+[10:21:19.606] Odometry x=-0.023979, y=1.494061, theta=-1.032820
+[10:21:19.860] Odometry x=-0.019547, y=1.496709, theta=-1.031202
+[10:21:20.089] Odometry x=-0.005303, y=1.505247, theta=-1.030357
+[10:21:20.367] Odometry x=0.010710, y=1.514719, theta=-1.030267
+[10:21:20.609] Odometry x=0.029848, y=1.525037, theta=-1.032046
+[10:21:20.839] Odometry x=0.045137, y=1.533729, theta=-1.035383
+[10:21:20.905] After Reprojection Map nMatches:2127 ,distance between ekf and vo x:0.000108 ,z=-0.000004,angle between two frames:0.000004
+[10:21:20.917]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =1393 	 error init =0.673254 	 error end=0.090688
+[10:21:20.917] After pose optimization, distance between ekf and vo x:0.007660 ,z=-0.005343,angle between two frames:0.000201
+[10:21:20.917] Update EKF and 3D points the number of feature in the new frame: 2022 and number of obs: 2022
+[10:21:20.917] frame Scene Depth mean:1.776805 ,depth min:0.051909
+[10:21:20.937] need key frame pitch dis: 1.480066 translation dif:1.389863
+[10:21:20.937] Choose frame as a key frame Scene Depth mean:1.776805 ,depth min:0.051909
+[10:21:20.938] frame process finished the id is: 93 the obs is:2020 
+[10:21:22.609] Odometry x=0.030861, y=1.523600, theta=-0.993227
+[10:21:22.856] Odometry x=0.033373, y=1.525121, theta=-0.992143
+[10:21:23.192] Odometry x=0.038782, y=1.528566, theta=-0.988648
+[10:21:23.344] Odometry x=0.045241, y=1.532762, theta=-0.982823
+[10:21:23.613] Odometry x=0.052156, y=1.537359, theta=-0.978588
+[10:21:23.880] Odometry x=0.059178, y=1.541996, theta=-0.975261
+[10:21:24.125] Odometry x=0.066723, y=1.547055, theta=-0.973081
+[10:21:24.374] Odometry x=0.074899, y=1.552642, theta=-0.972827
+[10:21:24.601] Odometry x=0.083175, y=1.558269, theta=-0.975907
+[10:21:24.690] After Reprojection Map nMatches:2475 ,distance between ekf and vo x:-0.000014 ,z=-0.000045,angle between two frames:0.000002
+[10:21:24.705]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =1451 	 error init =8.311303 	 error end=0.167451
+[10:21:24.705] After pose optimization, distance between ekf and vo x:0.008416 ,z=-0.009061,angle between two frames:0.001885
+[10:21:24.705] Update EKF and 3D points the number of feature in the new frame: 1905 and number of obs: 1905
+[10:21:24.706] frame Scene Depth mean:2.173330 ,depth min:0.075824
+[10:21:24.730] need key frame pitch dis: 1.460860 translation dif:1.431689
+[10:21:24.730] Choose frame as a key frame Scene Depth mean:2.173330 ,depth min:0.075824
+[10:21:24.731] frame process finished the id is: 94 the obs is:1905 
+[10:21:24.851] Odometry x=0.079456, y=1.552524, theta=-0.974022
+[10:21:25.184] Odometry x=0.085926, y=1.556715, theta=-0.968261
+[10:21:25.391] Odometry x=0.093780, y=1.561938, theta=-0.964401
+[10:21:25.612] Odometry x=0.102010, y=1.567689, theta=-0.962288
+[10:21:25.876] Odometry x=0.110300, y=1.573408, theta=-0.957897
+[10:21:26.122] Odometry x=0.118523, y=1.579127, theta=-0.955413
+[10:21:27.382] Odometry x=0.118540, y=1.578767, theta=-0.961350
+[10:21:27.620] Odometry x=0.118550, y=1.578747, theta=-1.014923
+[10:21:27.845] Odometry x=0.118579, y=1.578729, theta=-1.119879
+[10:21:28.120] Odometry x=0.118568, y=1.578598, theta=-1.265602
+[10:21:28.140] After Reprojection Map nMatches:2606 ,distance between ekf and vo x:-0.000008 ,z=-0.000040,angle between two frames:0.000001
+[10:21:28.157]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =1419 	 error init =6.552195 	 error end=0.153432
+[10:21:28.157] After pose optimization, distance between ekf and vo x:0.420066 ,z=-0.371212,angle between two frames:0.020966
+[10:21:28.157] frame process finished the id is: 94 the obs is:1905 
+[10:21:28.366] Odometry x=0.118571, y=1.578643, theta=-1.402980
+[10:21:29.348] Odometry x=0.118554, y=1.578283, theta=-1.445117
+[10:21:29.607] Odometry x=0.118547, y=1.578282, theta=-1.497875
+[10:21:29.853] Odometry x=0.118502, y=1.578245, theta=-1.584858
+[10:21:30.009] After Reprojection Map nMatches:2151 ,distance between ekf and vo x:-0.000176 ,z=0.000066,angle between two frames:0.000005
+[10:21:30.021]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =1408 	 error init =1.546541 	 error end=0.069132
+[10:21:30.021] After pose optimization, distance between ekf and vo x:0.004006 ,z=-0.024364,angle between two frames:0.001096
+[10:21:30.021] Update EKF and 3D points the number of feature in the new frame: 1619 and number of obs: 1619
+[10:21:30.022] frame Scene Depth mean:1.327067 ,depth min:0.050245
+[10:21:30.047] need key frame pitch dis: 1.785590 translation dif:1.138876
+[10:21:30.047] Choose frame as a key frame Scene Depth mean:1.327067 ,depth min:0.050245
+[10:21:30.048] frame process finished the id is: 96 the obs is:1578 
+[10:21:30.108] Odometry x=0.119492, y=1.572681, theta=-1.687220
+[10:21:30.346] Odometry x=0.119481, y=1.572649, theta=-1.756775
+[10:21:30.604] Odometry x=0.119566, y=1.572488, theta=-1.872744
+[10:21:30.891] Odometry x=0.119523, y=1.572554, theta=-1.997281
+[10:21:32.127] Odometry x=0.119444, y=1.572557, theta=-2.036302
+[10:21:32.347] Odometry x=0.119437, y=1.572554, theta=-2.080597
+[10:21:32.600] Odometry x=0.119393, y=1.572557, theta=-2.162648
+[10:21:32.786] After Reprojection Map nMatches:2531 ,distance between ekf and vo x:-0.000251 ,z=0.000215,angle between two frames:0.000022
+[10:21:32.796]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =1301 	 error init =1.360684 	 error end=0.278778
+[10:21:32.796] After pose optimization, distance between ekf and vo x:0.012209 ,z=0.007667,angle between two frames:0.004738
+[10:21:32.797] Update EKF and 3D points the number of feature in the new frame: 1760 and number of obs: 1760
+[10:21:32.798] frame Scene Depth mean:0.722831 ,depth min:0.050225
+[10:21:32.818] need key frame pitch dis: 2.316792 translation dif:1.140842
+[10:21:32.818] Choose frame as a key frame Scene Depth mean:0.722831 ,depth min:0.050225
+[10:21:32.819] frame process finished the id is: 97 the obs is:1545 
+[10:21:32.864] Odometry x=0.122227, y=1.574338, theta=-2.218421
+[10:21:33.164] Odometry x=0.122204, y=1.574323, theta=-2.294674
+[10:21:33.353] Odometry x=0.122342, y=1.574373, theta=-2.405644
+[10:21:34.984] After Reprojection Map nMatches:1938 ,distance between ekf and vo x:-0.000071 ,z=0.000141,angle between two frames:0.000034
+[10:21:35.002]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =713 	 error init =1.129453 	 error end=0.460297
+[10:21:35.002] After pose optimization, distance between ekf and vo x:0.080569 ,z=0.077077,angle between two frames:0.003550
+[10:21:35.002] Update EKF and 3D points the number of feature in the new frame: 1288 and number of obs: 1288
+[10:21:35.002] frame Scene Depth mean:0.928737 ,depth min:0.060212
+[10:21:35.018] need key frame pitch dis: 1.232182 translation dif:1.774594
+[10:21:35.018] Choose frame as a key frame Scene Depth mean:0.928737 ,depth min:0.060212
+[10:21:35.019] frame process finished the id is: 98 the obs is:1268 
+[10:21:35.873] Odometry x=0.140884, y=1.592172, theta=-2.430699
+[10:21:36.127] Odometry x=0.140881, y=1.592159, theta=-2.433581
+[10:21:36.347] Odometry x=0.140853, y=1.592056, theta=-2.444557
+[10:21:36.609] Odometry x=0.140828, y=1.592034, theta=-2.468608
+[10:21:36.866] Odometry x=0.140707, y=1.591999, theta=-2.498264
+[10:21:37.956] After Reprojection Map nMatches:1856 ,distance between ekf and vo x:-0.000384 ,z=0.000024,angle between two frames:0.000062
+[10:21:37.976]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =712 	 error init =0.894597 	 error end=0.304666
+[10:21:37.976] After pose optimization, distance between ekf and vo x:0.244421 ,z=0.125843,angle between two frames:0.001131
+[10:21:37.976] frame process finished the id is: 98 the obs is:1268 
+[10:21:38.128] Odometry x=0.140708, y=1.591999, theta=-2.507425
+[10:21:38.393] Odometry x=0.140945, y=1.591660, theta=-2.506211
+[10:21:38.623] Odometry x=0.146403, y=1.584238, theta=-2.503807
+[10:21:38.886] Odometry x=0.152017, y=1.576489, theta=-2.503428
+[10:21:39.157] Odometry x=0.157622, y=1.568900, theta=-2.503308
+[10:21:39.331] Odometry x=0.163173, y=1.561382, theta=-2.506509
+[10:21:39.610] Odometry x=0.168868, y=1.553583, theta=-2.508102
+[10:21:39.846] Odometry x=0.174369, y=1.545840, theta=-2.508690
+[10:21:40.116] Odometry x=0.180285, y=1.537787, theta=-2.505663
+[10:21:40.535] Odometry x=0.186697, y=1.529416, theta=-2.501979
+[10:21:40.743] After Reprojection Map nMatches:1503 ,distance between ekf and vo x:-0.000486 ,z=0.000113,angle between two frames:0.000072
+[10:21:40.755] Odometry x=0.192726, y=1.521238, theta=-2.499033
+[10:21:40.756]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =794 	 error init =0.808902 	 error end=0.391327
+[10:21:40.756] After pose optimization, distance between ekf and vo x:0.006240 ,z=0.005609,angle between two frames:0.000116
+[10:21:40.756] Update EKF and 3D points the number of feature in the new frame: 1504 and number of obs: 1504
+[10:21:40.756] frame Scene Depth mean:1.016906 ,depth min:0.052998
+[10:21:40.769] need key frame pitch dis: 1.534552 translation dif:0.736685
+[10:21:40.769] Choose frame as a key frame Scene Depth mean:1.016906 ,depth min:0.052998
+[10:21:40.769] frame process finished the id is: 100 the obs is:1493 
+[10:21:40.889] Odometry x=0.198586, y=1.514680, theta=-2.498219
+[10:21:41.337] Odometry x=0.203954, y=1.507352, theta=-2.495918
+[10:21:41.471] Odometry x=0.209450, y=1.500028, theta=-2.497217
+[10:21:41.605] Odometry x=0.215310, y=1.492246, theta=-2.496687
+[10:21:41.855] Odometry x=0.221159, y=1.484365, theta=-2.492940
+[10:21:42.113] Odometry x=0.227188, y=1.476332, theta=-2.487261
+[10:21:42.371] Odometry x=0.233519, y=1.468042, theta=-2.482826
+[10:21:42.597] Odometry x=0.240020, y=1.459208, theta=-2.472715
+[10:21:42.885] Odometry x=0.246898, y=1.449896, theta=-2.473647
+[10:21:43.177] Odometry x=0.254460, y=1.440382, theta=-2.475852
+[10:21:43.378] Odometry x=0.262068, y=1.430598, theta=-2.477282
+[10:21:43.413] After Reprojection Map nMatches:1653 ,distance between ekf and vo x:-0.000526 ,z=0.000097,angle between two frames:0.000089
+[10:21:43.430]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =605 	 error init =1.010152 	 error end=0.386287
+[10:21:43.430] After pose optimization, distance between ekf and vo x:0.012167 ,z=0.010287,angle between two frames:0.000423
+[10:21:43.430] Update EKF and 3D points the number of feature in the new frame: 1307 and number of obs: 1307
+[10:21:43.430] frame Scene Depth mean:0.970100 ,depth min:0.050233
+[10:21:43.440] need key frame pitch dis: 2.576516 translation dif:1.027872
+[10:21:43.440] Choose frame as a key frame Scene Depth mean:0.970100 ,depth min:0.050233
+[10:21:43.440] frame process finished the id is: 101 the obs is:1306 
+[10:21:43.617] Odometry x=0.271782, y=1.420609, theta=-2.477953
+[10:21:43.884] Odometry x=0.279659, y=1.410498, theta=-2.480909
+[10:21:44.111] Odometry x=0.287480, y=1.400119, theta=-2.475900
+[10:21:44.358] Odometry x=0.295691, y=1.389900, theta=-2.478758
+[10:21:44.618] Odometry x=0.303649, y=1.379428, theta=-2.485719
+[10:21:44.862] Odometry x=0.311542, y=1.368876, theta=-2.491419
+[10:21:45.148] Odometry x=0.320483, y=1.356874, theta=-2.487460
+[10:21:45.358] Odometry x=0.330333, y=1.343708, theta=-2.483443
+[10:21:45.625] Odometry x=0.338196, y=1.334260, theta=-2.460257
+[10:21:45.851] After Reprojection Map nMatches:1526 ,distance between ekf and vo x:-0.000512 ,z=-0.000034,angle between two frames:0.000018
+[10:21:45.854] Odometry x=0.346020, y=1.325334, theta=-2.431774
+[10:21:45.867]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =651 	 error init =1.055582 	 error end=0.304664
+[10:21:45.867] After pose optimization, distance between ekf and vo x:0.021245 ,z=0.018755,angle between two frames:0.000335
+[10:21:45.867] Update EKF and 3D points the number of feature in the new frame: 1166 and number of obs: 1166
+[10:21:45.867] frame Scene Depth mean:1.096983 ,depth min:0.057502
+[10:21:45.879] need key frame pitch dis: 1.681928 translation dif:0.351709
+[10:21:45.879] Choose frame as a key frame Scene Depth mean:1.096983 ,depth min:0.057502
+[10:21:45.879] frame process finished the id is: 102 the obs is:1162 
+[10:21:46.098] Odometry x=0.357837, y=1.315948, theta=-2.425473
+[10:21:46.367] Odometry x=0.366887, y=1.305618, theta=-2.414546
+[10:21:46.605] Odometry x=0.376090, y=1.295370, theta=-2.412100
+[10:21:46.884] Odometry x=0.385397, y=1.285189, theta=-2.414141
+[10:21:47.202] Odometry x=0.394975, y=1.274740, theta=-2.422058
+[10:21:47.355] Odometry x=0.404204, y=1.264545, theta=-2.421471
+[10:21:47.621] Odometry x=0.413304, y=1.254174, theta=-2.418466
+[10:21:47.845] Odometry x=0.422496, y=1.243851, theta=-2.409190
+[10:21:47.877] After Reprojection Map nMatches:1474 ,distance between ekf and vo x:-0.000754 ,z=0.000036,angle between two frames:0.000155
+[10:21:47.894]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =677 	 error init =4.595829 	 error end=0.333334
+[10:21:47.894] After pose optimization, distance between ekf and vo x:0.007746 ,z=0.008101,angle between two frames:0.000031
+[10:21:47.894] Update EKF and 3D points the number of feature in the new frame: 1265 and number of obs: 1265
+[10:21:47.894] frame Scene Depth mean:1.248910 ,depth min:0.057395
+[10:21:47.905] need key frame pitch dis: 5.499469 translation dif:1.306024
+[10:21:47.905] Choose frame as a key frame Scene Depth mean:1.248910 ,depth min:0.057395
+[10:21:47.906] frame process finished the id is: 103 the obs is:1263 
+[10:21:48.116] Odometry x=0.415028, y=1.256997, theta=-2.412529
+[10:21:48.349] Odometry x=0.421946, y=1.249109, theta=-2.405874
+[10:21:48.596] Odometry x=0.430728, y=1.239135, theta=-2.398955
+[10:21:48.869] Odometry x=0.439966, y=1.229189, theta=-2.401752
+[10:21:49.155] Odometry x=0.449116, y=1.218725, theta=-2.402295
+[10:21:49.359] Odometry x=0.458309, y=1.206827, theta=-2.402209
+[10:21:49.590] Odometry x=0.468255, y=1.196077, theta=-2.396538
+[10:21:49.850] Odometry x=0.478159, y=1.185359, theta=-2.392570
+[10:21:50.008] After Reprojection Map nMatches:1728 ,distance between ekf and vo x:-0.000358 ,z=0.000047,angle between two frames:0.000046
+[10:21:50.021]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =726 	 error init =1.810145 	 error end=0.241706
+[10:21:50.021] After pose optimization, distance between ekf and vo x:-0.000296 ,z=0.000102,angle between two frames:0.000047
+[10:21:50.021] Update EKF and 3D points the number of feature in the new frame: 1270 and number of obs: 1270
+[10:21:50.021] frame Scene Depth mean:1.036228 ,depth min:0.051846
+[10:21:50.032] need key frame pitch dis: 1.537331 translation dif:0.045262
+[10:21:50.032] Choose frame as a key frame Scene Depth mean:1.036228 ,depth min:0.051846
+[10:21:50.032] frame process finished the id is: 104 the obs is:1230 
+[10:21:50.115] Odometry x=0.470659, y=1.193711, theta=-2.388049
+[10:21:50.359] Odometry x=0.478309, y=1.185751, theta=-2.386851
+[10:21:50.615] Odometry x=0.487337, y=1.175698, theta=-2.390848
+[10:21:50.874] Odometry x=0.496609, y=1.165448, theta=-2.397478
+[10:21:51.159] Odometry x=0.506131, y=1.154966, theta=-2.402298
+[10:21:51.356] Odometry x=0.515866, y=1.144592, theta=-2.402048
+[10:21:51.602] Odometry x=0.525402, y=1.134190, theta=-2.406775
+[10:21:51.903] Odometry x=0.535340, y=1.123266, theta=-2.412842
+[10:21:52.101] Odometry x=0.544451, y=1.113049, theta=-2.391963
+[10:21:52.227] After Reprojection Map nMatches:1512 ,distance between ekf and vo x:-0.000279 ,z=0.000089,angle between two frames:0.000014
+[10:21:52.244]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =550 	 error init =2.163726 	 error end=0.356791
+[10:21:52.244] After pose optimization, distance between ekf and vo x:0.002782 ,z=0.002956,angle between two frames:0.000009
+[10:21:52.244] Update EKF and 3D points the number of feature in the new frame: 1145 and number of obs: 1145
+[10:21:52.244] frame Scene Depth mean:1.367314 ,depth min:0.055055
+[10:21:52.255] need key frame pitch dis: 1.544825 translation dif:0.121794
+[10:21:52.255] Choose frame as a key frame Scene Depth mean:1.367314 ,depth min:0.055055
+[10:21:52.256] frame process finished the id is: 105 the obs is:1142 
+[10:21:52.373] Odometry x=0.535403, y=1.124447, theta=-2.395544
+[10:21:52.617] Odometry x=0.542425, y=1.116452, theta=-2.395155
+[10:21:52.862] Odometry x=0.551359, y=1.106712, theta=-2.386630
+[10:21:53.173] Odometry x=0.560995, y=1.096658, theta=-2.380551
+[10:21:53.356] Odometry x=0.570463, y=1.086435, theta=-2.393869
+[10:21:53.616] Odometry x=0.580043, y=1.076016, theta=-2.390212
+[10:21:53.881] Odometry x=0.589698, y=1.065696, theta=-2.388481
+[10:21:54.009] After Reprojection Map nMatches:1248 ,distance between ekf and vo x:-0.000361 ,z=0.000057,angle between two frames:0.000037
+[10:21:54.023]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =418 	 error init =3.229649 	 error end=0.403598
+[10:21:54.023] After pose optimization, distance between ekf and vo x:0.000469 ,z=0.000669,angle between two frames:0.000045
+[10:21:54.023] Update EKF and 3D points the number of feature in the new frame: 1038 and number of obs: 1038
+[10:21:54.023] frame Scene Depth mean:1.624572 ,depth min:0.097800
+[10:21:54.030] need key frame pitch dis: 5.471462 translation dif:1.230863
+[10:21:54.030] Choose frame as a key frame Scene Depth mean:1.624572 ,depth min:0.097800
+[10:21:54.031] frame process finished the id is: 106 the obs is:1038 
+[10:21:54.121] Odometry x=0.584692, y=1.071634, theta=-2.384521
+[10:21:54.347] Odometry x=0.591972, y=1.063973, theta=-2.386967
+[10:21:54.604] Odometry x=0.601048, y=1.054269, theta=-2.382106
+[10:21:54.887] Odometry x=0.610489, y=1.043774, theta=-2.383761
+[10:21:55.151] Odometry x=0.620080, y=1.033505, theta=-2.385134
+[10:21:55.351] After Reprojection Map nMatches:1169 ,distance between ekf and vo x:-0.000175 ,z=0.000057,angle between two frames:0.000015
+[10:21:55.363]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =452 	 error init =3.771943 	 error end=0.319272
+[10:21:55.363] After pose optimization, distance between ekf and vo x:0.002001 ,z=0.002113,angle between two frames:0.000008
+[10:21:55.363] Update EKF and 3D points the number of feature in the new frame: 954 and number of obs: 954
+[10:21:55.363] frame Scene Depth mean:2.028487 ,depth min:0.216350
+[10:21:55.369] need key frame pitch dis: 5.469002 translation dif:1.222478
+[10:21:55.370] Choose frame as a key frame Scene Depth mean:2.028487 ,depth min:0.216350
+[10:21:55.370] frame process finished the id is: 107 the obs is:954 
+[10:21:55.382] Odometry x=0.619804, y=1.034892, theta=-2.382061
+[10:21:55.609] Odometry x=0.627276, y=1.027077, theta=-2.380390
+[10:21:55.867] Odometry x=0.636621, y=1.017713, theta=-2.385526
+[10:21:56.121] Odometry x=0.646363, y=1.007696, theta=-2.385039
+[10:21:56.375] Odometry x=0.655946, y=0.997533, theta=-2.372863
+[10:21:56.601] Odometry x=0.665689, y=0.987379, theta=-2.362604
+[10:21:56.634] After Reprojection Map nMatches:1002 ,distance between ekf and vo x:-0.000370 ,z=0.000002,angle between two frames:0.000036
+[10:21:56.645]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =430 	 error init =1.996371 	 error end=0.351133
+[10:21:56.645] After pose optimization, distance between ekf and vo x:0.000114 ,z=0.000101,angle between two frames:0.000065
+[10:21:56.645] Update EKF and 3D points the number of feature in the new frame: 978 and number of obs: 978
+[10:21:56.645] frame Scene Depth mean:2.155778 ,depth min:0.211313
+[10:21:56.652] need key frame pitch dis: 5.449818 translation dif:1.215524
+[10:21:56.652] Choose frame as a key frame Scene Depth mean:2.155778 ,depth min:0.211313
+[10:21:56.652] frame process finished the id is: 108 the obs is:976 
+[10:21:56.854] Odometry x=0.662895, y=0.990470, theta=-2.362877
+[10:21:57.192] Odometry x=0.670432, y=0.982695, theta=-2.362915
+[10:21:57.347] Odometry x=0.679957, y=0.973173, theta=-2.355814
+[10:21:57.620] Odometry x=0.689698, y=0.963385, theta=-2.346651
+[10:21:57.828] After Reprojection Map nMatches:656 ,distance between ekf and vo x:0.007878 ,z=0.141092,angle between two frames:0.099957
+[10:21:57.836]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =252 	 error init =0.675076 	 error end=0.309436
+[10:21:57.836] After pose optimization, distance between ekf and vo x:0.007883 ,z=0.141106,angle between two frames:0.099956
+[10:21:57.836] Update EKF and 3D points the number of feature in the new frame: 939 and number of obs: 939
+[10:21:57.836] frame Scene Depth mean:1.870675 ,depth min:0.227077
+[10:21:57.840] need key frame pitch dis: 5.443437 translation dif:1.238634
+[10:21:57.840] Choose frame as a key frame Scene Depth mean:1.870675 ,depth min:0.227077
+[10:21:57.841] frame process finished the id is: 109 the obs is:939 
+[10:21:57.864] Odometry x=0.693211, y=0.994581, theta=-2.356496
+[10:21:58.092] Odometry x=0.700655, y=0.987009, theta=-2.350768
+[10:21:58.361] Odometry x=0.708127, y=0.979411, theta=-2.367332
+[10:21:58.590] Odometry x=0.717577, y=0.969528, theta=-2.330891
+[10:21:58.831] Odometry x=0.728226, y=0.959713, theta=-2.316910
+[10:21:58.971] After Reprojection Map nMatches:465 ,distance between ekf and vo x:0.007009 ,z=0.141166,angle between two frames:0.100062
+[10:21:58.975]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =198 	 error init =0.756985 	 error end=0.177998
+[10:21:58.975] After pose optimization, distance between ekf and vo x:0.007009 ,z=0.141166,angle between two frames:0.100062
+[10:21:58.975] Update EKF and 3D points the number of feature in the new frame: 985 and number of obs: 985
+[10:21:58.976] frame Scene Depth mean:1.661935 ,depth min:0.133377
+[10:21:58.980] need key frame pitch dis: 1.658859 translation dif:0.526700
+[10:21:58.980] Choose frame as a key frame Scene Depth mean:1.661935 ,depth min:0.133377
+[10:21:58.980] frame process finished the id is: 110 the obs is:985 
+[10:21:59.153] Odometry x=0.729803, y=0.992552, theta=-2.343137
+[10:21:59.375] Odometry x=0.737382, y=0.985322, theta=-2.346426
+[10:21:59.618] Odometry x=0.747301, y=0.975902, theta=-2.342615
+[10:21:59.861] Odometry x=0.757216, y=0.966214, theta=-2.326765
+[10:22:00.093] Odometry x=0.767421, y=0.956631, theta=-2.304637
+[10:22:00.289] After Reprojection Map nMatches:675 ,distance between ekf and vo x:-0.000113 ,z=0.000048,angle between two frames:0.000053
+[10:22:00.295]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =284 	 error init =0.685412 	 error end=0.303350
+[10:22:00.295] After pose optimization, distance between ekf and vo x:-0.000113 ,z=0.000048,angle between two frames:0.000053
+[10:22:00.295] Update EKF and 3D points the number of feature in the new frame: 1015 and number of obs: 1015
+[10:22:00.295] frame Scene Depth mean:2.050276 ,depth min:0.343588
+[10:22:00.300] need key frame pitch dis: 1.601316 translation dif:0.563066
+[10:22:00.300] Choose frame as a key frame Scene Depth mean:2.050276 ,depth min:0.343588
+[10:22:00.300] frame process finished the id is: 111 the obs is:1015 
+[10:22:00.355] Odometry x=0.765723, y=0.956170, theta=-2.285594
+[10:22:00.602] Odometry x=0.773579, y=0.949131, theta=-2.266538
+[10:22:00.856] Odometry x=0.783734, y=0.940802, theta=-2.283547
+[10:22:01.063] After Reprojection Map nMatches:589 ,distance between ekf and vo x:-0.000204 ,z=0.000133,angle between two frames:0.000051
+[10:22:01.071]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =241 	 error init =2.303709 	 error end=0.181741
+[10:22:01.071] After pose optimization, distance between ekf and vo x:-0.000187 ,z=0.000152,angle between two frames:0.000051
+[10:22:01.071] Update EKF and 3D points the number of feature in the new frame: 615 and number of obs: 615
+[10:22:01.071] frame Scene Depth mean:1.662644 ,depth min:0.333787
+[10:22:01.075] need key frame pitch dis: 5.380923 translation dif:1.263003
+[10:22:01.075] Choose frame as a key frame Scene Depth mean:1.662644 ,depth min:0.333787
+[10:22:01.076] frame process finished the id is: 112 the obs is:615 
+[10:22:01.156] Odometry x=0.787343, y=0.936816, theta=-2.293982
+[10:22:01.369] Odometry x=0.795701, y=0.929528, theta=-2.303021
+[10:22:01.609] Odometry x=0.805796, y=0.920378, theta=-2.314750
+[10:22:01.856] After Reprojection Map nMatches:520 ,distance between ekf and vo x:-0.000409 ,z=0.000182,angle between two frames:0.000242
+[10:22:01.864]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =196 	 error init =0.791129 	 error end=0.232442
+[10:22:01.864] After pose optimization, distance between ekf and vo x:0.000537 ,z=0.001246,angle between two frames:0.000259
+[10:22:01.864] Update EKF and 3D points the number of feature in the new frame: 648 and number of obs: 648
+[10:22:01.864] frame Scene Depth mean:1.476848 ,depth min:0.327516
+[10:22:01.867] need key frame pitch dis: 1.694621 translation dif:0.538024
+[10:22:01.867] Choose frame as a key frame Scene Depth mean:1.476848 ,depth min:0.327516
+[10:22:01.867] frame process finished the id is: 113 the obs is:648 
+[10:22:01.873] Odometry x=0.810691, y=0.916222, theta=-2.310373
+[10:22:02.112] Odometry x=0.818486, y=0.909135, theta=-2.310216
+[10:22:02.378] Odometry x=0.828102, y=0.899734, theta=-2.293315
+[10:22:02.608] After Reprojection Map nMatches:429 ,distance between ekf and vo x:-0.000123 ,z=-0.000000,angle between two frames:0.000035
+[10:22:02.614]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =183 	 error init =1.751877 	 error end=0.242880
+[10:22:02.614] After pose optimization, distance between ekf and vo x:0.000371 ,z=0.000574,angle between two frames:0.000025
+[10:22:02.614] Update EKF and 3D points the number of feature in the new frame: 639 and number of obs: 639
+[10:22:02.614] frame Scene Depth mean:1.648857 ,depth min:0.294855
+[10:22:02.616] Odometry x=0.832113, y=0.896105, theta=-2.292395
+[10:22:02.618] need key frame pitch dis: 2.390766 translation dif:0.959219
+[10:22:02.618] Choose frame as a key frame Scene Depth mean:1.648857 ,depth min:0.294855
+[10:22:02.618] frame process finished the id is: 114 the obs is:639 
+[10:22:02.889] Odometry x=0.840146, y=0.889252, theta=-2.308031
+[10:22:03.136] Odometry x=0.850163, y=0.880503, theta=-2.317306
+[10:22:03.197] After Reprojection Map nMatches:493 ,distance between ekf and vo x:-0.001950 ,z=0.141350,angle between two frames:0.099997
+[10:22:03.204]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =229 	 error init =4.115031 	 error end=0.276080
+[10:22:03.205] After pose optimization, distance between ekf and vo x:0.003855 ,z=0.146040,angle between two frames:0.100244
+[10:22:03.205] Update EKF and 3D points the number of feature in the new frame: 471 and number of obs: 471
+[10:22:03.205] frame Scene Depth mean:1.984397 ,depth min:0.243472
+[10:22:03.208] need key frame pitch dis: 0.663432 translation dif:0.473763
+[10:22:03.208] Choose frame as a key frame Scene Depth mean:1.984397 ,depth min:0.243472
+[10:22:03.208] frame process finished the id is: 115 the obs is:471 
+[10:22:03.356] Odometry x=0.854574, y=0.910761, theta=-2.315925
+[10:22:03.622] Odometry x=0.862087, y=0.903520, theta=-2.316544
+[10:22:03.728] After Reprojection Map nMatches:506 ,distance between ekf and vo x:0.000004 ,z=-0.000006,angle between two frames:0.000004
+[10:22:03.734]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =231 	 error init =0.866486 	 error end=0.305302
+[10:22:03.734] After pose optimization, distance between ekf and vo x:0.000060 ,z=0.000061,angle between two frames:0.000004
+[10:22:03.734] Update EKF and 3D points the number of feature in the new frame: 468 and number of obs: 468
+[10:22:03.735] frame Scene Depth mean:2.717078 ,depth min:0.138858
+[10:22:03.738] need key frame pitch dis: 0.173063 translation dif:0.780544
+[10:22:03.738] Choose frame as a key frame Scene Depth mean:2.717078 ,depth min:0.138858
+[10:22:03.738] frame process finished the id is: 116 the obs is:467 
+[10:22:03.861] Odometry x=0.867905, y=0.898242, theta=-2.326464
+[10:22:04.096] Odometry x=0.875681, y=0.890451, theta=-2.318215
+[10:22:04.276] After Reprojection Map nMatches:600 ,distance between ekf and vo x:0.000045 ,z=-0.000105,angle between two frames:0.000015
+[10:22:04.282]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =200 	 error init =0.972715 	 error end=0.849774
+[10:22:04.282] After pose optimization, distance between ekf and vo x:0.000266 ,z=0.000125,angle between two frames:0.000015
+[10:22:04.282] Update EKF and 3D points the number of feature in the new frame: 532 and number of obs: 532
+[10:22:04.282] frame Scene Depth mean:2.296075 ,depth min:0.240160
+[10:22:04.286] need key frame pitch dis: 0.080377 translation dif:0.254243
+[10:22:04.286] Choose frame as a key frame Scene Depth mean:2.296075 ,depth min:0.240160
+[10:22:04.286] frame process finished the id is: 117 the obs is:532 
+[10:22:04.356] Odometry x=0.881408, y=0.884639, theta=-2.324308
+[10:22:04.623] Odometry x=0.889025, y=0.876979, theta=-2.295407
+[10:22:04.674] After Reprojection Map nMatches:445 ,distance between ekf and vo x:0.002565 ,z=0.141351,angle between two frames:0.100030
+[10:22:04.678]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =200 	 error init =5.253869 	 error end=0.837700
+[10:22:04.678] After pose optimization, distance between ekf and vo x:0.004728 ,z=0.143680,angle between two frames:0.100016
+[10:22:04.678] Update EKF and 3D points the number of feature in the new frame: 403 and number of obs: 403
+[10:22:04.678] frame Scene Depth mean:1.587056 ,depth min:0.133560
+[10:22:04.682] need key frame pitch dis: 0.021871 translation dif:0.316835
+[10:22:04.682] Choose frame as a key frame Scene Depth mean:1.587056 ,depth min:0.133560
+[10:22:04.682] frame process finished the id is: 118 the obs is:403 
+[10:22:04.849] Odometry x=0.895748, y=0.904897, theta=-2.327797
+[10:22:05.030] After Reprojection Map nMatches:361 ,distance between ekf and vo x:0.000025 ,z=-0.000332,angle between two frames:0.000466
+[10:22:05.031]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =154 	 error init =1.162383 	 error end=0.424311
+[10:22:05.031] After pose optimization, distance between ekf and vo x:0.000025 ,z=-0.000332,angle between two frames:0.000466
+[10:22:05.031] Update EKF and 3D points the number of feature in the new frame: 317 and number of obs: 317
+[10:22:05.032] frame Scene Depth mean:2.337343 ,depth min:0.081717
+[10:22:05.034] need key frame pitch dis: 0.091501 translation dif:0.254297
+[10:22:05.034] Choose frame as a key frame Scene Depth mean:2.337343 ,depth min:0.081717
+[10:22:05.035] frame process finished the id is: 119 the obs is:317 
+[10:22:05.159] Odometry x=0.901157, y=0.899580, theta=-2.335433
+[10:22:05.515] After Reprojection Map nMatches:526 ,distance between ekf and vo x:-0.000019 ,z=-0.000014,angle between two frames:0.000005
+[10:22:05.520]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =205 	 error init =0.852154 	 error end=0.742325
+[10:22:05.520] After pose optimization, distance between ekf and vo x:0.001054 ,z=0.001321,angle between two frames:0.000005
+[10:22:05.520] Update EKF and 3D points the number of feature in the new frame: 476 and number of obs: 476
+[10:22:05.520] frame Scene Depth mean:2.568411 ,depth min:0.212693
+[10:22:05.523] need key frame pitch dis: 0.003978 translation dif:0.322813
+[10:22:05.523] Choose frame as a key frame Scene Depth mean:2.568411 ,depth min:0.212693
+[10:22:05.523] frame process finished the id is: 120 the obs is:476 
+[10:22:06.119] After Reprojection Map nMatches:607 ,distance between ekf and vo x:0.005550 ,z=0.141301,angle between two frames:0.099984
+[10:22:06.124]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =273 	 error init =0.690581 	 error end=0.399944
+[10:22:06.124] After pose optimization, distance between ekf and vo x:0.005616 ,z=0.141355,angle between two frames:0.099984
+[10:22:06.124] Update EKF and 3D points the number of feature in the new frame: 670 and number of obs: 670
+[10:22:06.125] frame Scene Depth mean:2.670521 ,depth min:0.180581
+[10:22:06.130] need key frame pitch dis: 0.116994 translation dif:0.234804
+[10:22:06.130] Choose frame as a key frame Scene Depth mean:2.670521 ,depth min:0.180581
+[10:22:06.130] frame process finished the id is: 121 the obs is:667 
+[10:22:06.799] After Reprojection Map nMatches:703 ,distance between ekf and vo x:0.007751 ,z=0.141178,angle between two frames:0.099995
+[10:22:06.804]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =371 	 error init =1.385859 	 error end=0.219918
+[10:22:06.804] After pose optimization, distance between ekf and vo x:0.009567 ,z=0.142873,angle between two frames:0.099982
+[10:22:06.804] Update EKF and 3D points the number of feature in the new frame: 747 and number of obs: 747
+[10:22:06.804] frame Scene Depth mean:1.788241 ,depth min:0.051926
+[10:22:06.810] need key frame pitch dis: 0.013364 translation dif:0.333596
+[10:22:06.810] Choose frame as a key frame Scene Depth mean:1.788241 ,depth min:0.051926
+[10:22:06.810] frame process finished the id is: 122 the obs is:747 
+[10:22:07.426] After Reprojection Map nMatches:725 ,distance between ekf and vo x:-0.000027 ,z=0.000015,angle between two frames:0.000001
+[10:22:07.433]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =180 	 error init =0.420401 	 error end=0.575971
+[10:22:07.433] After pose optimization, distance between ekf and vo x:0.001504 ,z=0.001534,angle between two frames:0.000010
+[10:22:07.433] Update EKF and 3D points the number of feature in the new frame: 648 and number of obs: 648
+[10:22:07.433] frame Scene Depth mean:1.707735 ,depth min:0.100733
+[10:22:07.436] need key frame pitch dis: 0.568776 translation dif:0.350352
+[10:22:07.436] Choose frame as a key frame Scene Depth mean:1.707735 ,depth min:0.100733
+[10:22:07.437] frame process finished the id is: 123 the obs is:647 
+[10:22:07.861] Odometry x=0.904390, y=0.905265, theta=-2.349503
+[10:22:08.053] After Reprojection Map nMatches:681 ,distance between ekf and vo x:0.006112 ,z=0.141238,angle between two frames:0.099999
+[10:22:08.059]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =317 	 error init =2.188989 	 error end=1.838959
+[10:22:08.059] After pose optimization, distance between ekf and vo x:0.014259 ,z=0.147960,angle between two frames:0.099968
+[10:22:08.059] Update EKF and 3D points the number of feature in the new frame: 734 and number of obs: 734
+[10:22:08.059] frame Scene Depth mean:1.276485 ,depth min:0.142563
+[10:22:08.064] need key frame pitch dis: 0.583955 translation dif:0.356400
+[10:22:08.064] Choose frame as a key frame Scene Depth mean:1.276485 ,depth min:0.142563
+[10:22:08.064] frame process finished the id is: 124 the obs is:734 
+[10:22:08.098] Odometry x=0.908008, y=0.941441, theta=-2.364682
+[10:22:08.380] Odometry x=0.908161, y=0.941017, theta=-2.379981
+[10:22:08.602] Odometry x=0.908151, y=0.941011, theta=-2.443522
+[10:22:08.613] After Reprojection Map nMatches:725 ,distance between ekf and vo x:0.000001 ,z=0.000044,angle between two frames:0.000002
+[10:22:08.619]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =356 	 error init =0.980069 	 error end=0.209872
+[10:22:08.619] After pose optimization, distance between ekf and vo x:0.000032 ,z=0.000072,angle between two frames:0.000003
+[10:22:08.619] Update EKF and 3D points the number of feature in the new frame: 744 and number of obs: 744
+[10:22:08.619] frame Scene Depth mean:1.053113 ,depth min:0.085579
+[10:22:08.625] need key frame pitch dis: 0.324664 translation dif:0.229240
+[10:22:08.625] Choose frame as a key frame Scene Depth mean:1.053113 ,depth min:0.085579
+[10:22:08.625] frame process finished the id is: 125 the obs is:743 
+[10:22:08.892] Odometry x=0.908134, y=0.941020, theta=-2.555856
+[10:22:09.152] Odometry x=0.908020, y=0.940768, theta=-2.635076
+[10:22:09.272] After Reprojection Map nMatches:672 ,distance between ekf and vo x:0.036714 ,z=0.136554,angle between two frames:0.100006
+[10:22:09.277]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =266 	 error init =0.246982 	 error end=0.184137
+[10:22:09.277] After pose optimization, distance between ekf and vo x:0.038046 ,z=0.137243,angle between two frames:0.100060
+[10:22:09.277] Update EKF and 3D points the number of feature in the new frame: 494 and number of obs: 494
+[10:22:09.277] frame Scene Depth mean:1.533618 ,depth min:0.050052
+[10:22:09.281] need key frame pitch dis: 0.361239 translation dif:0.036922
+[10:22:09.281] Choose frame as a key frame Scene Depth mean:1.533618 ,depth min:0.050052
+[10:22:09.281] frame process finished the id is: 126 the obs is:445 
+[10:22:09.354] Odometry x=0.916787, y=0.972451, theta=-2.718426
+[10:22:09.621] Odometry x=0.916339, y=0.972432, theta=-2.784210
+[10:22:09.789] After Reprojection Map nMatches:664 ,distance between ekf and vo x:0.000021 ,z=-0.000001,angle between two frames:0.000000
+[10:22:09.792]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =304 	 error init =1.265346 	 error end=0.408551
+[10:22:09.792] After pose optimization, distance between ekf and vo x:0.000021 ,z=-0.000001,angle between two frames:0.000000
+[10:22:09.792] Update EKF and 3D points the number of feature in the new frame: 530 and number of obs: 530
+[10:22:09.792] frame Scene Depth mean:1.166071 ,depth min:0.059040
+[10:22:09.796] need key frame pitch dis: 0.517224 translation dif:0.035913
+[10:22:09.796] Choose frame as a key frame Scene Depth mean:1.166071 ,depth min:0.059040
+[10:22:09.796] frame process finished the id is: 127 the obs is:525 
+[10:22:09.889] Odometry x=0.916462, y=0.971495, theta=-2.874411
+[10:22:10.118] Odometry x=0.916465, y=0.971461, theta=-2.905587
+[10:22:10.332] After Reprojection Map nMatches:563 ,distance between ekf and vo x:0.000012 ,z=0.000002,angle between two frames:0.000000
+[10:22:10.335]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =243 	 error init =0.354046 	 error end=0.175587
+[10:22:10.335] After pose optimization, distance between ekf and vo x:0.000012 ,z=0.000002,angle between two frames:0.000000
+[10:22:10.335] Update EKF and 3D points the number of feature in the new frame: 589 and number of obs: 589
+[10:22:10.335] frame Scene Depth mean:1.462951 ,depth min:0.053439
+[10:22:10.339] need key frame pitch dis: 0.623571 translation dif:0.035356
+[10:22:10.339] Choose frame as a key frame Scene Depth mean:1.462951 ,depth min:0.053439
+[10:22:10.339] frame process finished the id is: 128 the obs is:589 
+[10:22:10.370] Odometry x=0.916353, y=0.970940, theta=-2.980758
+[10:22:10.593] Odometry x=0.916252, y=0.970561, theta=-3.026959
+[10:22:10.851] Odometry x=0.916241, y=0.970426, theta=-3.097695
+[10:22:10.883] After Reprojection Map nMatches:441 ,distance between ekf and vo x:0.000027 ,z=0.000004,angle between two frames:0.000000
+[10:22:10.885]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =257 	 error init =0.144418 	 error end=0.075139
+[10:22:10.885] After pose optimization, distance between ekf and vo x:0.000027 ,z=0.000004,angle between two frames:0.000000
+[10:22:10.885] Update EKF and 3D points the number of feature in the new frame: 581 and number of obs: 581
+[10:22:10.885] frame Scene Depth mean:1.281553 ,depth min:0.051261
+[10:22:10.889] need key frame pitch dis: 0.007717 translation dif:0.023333
+[10:22:10.889] frame process finished the id is: 129 the obs is:572 
+[10:22:11.172] Odometry x=0.916221, y=0.970341, theta=3.117473
+[10:22:11.315] After Reprojection Map nMatches:418 ,distance between ekf and vo x:-0.000000 ,z=-0.000001,angle between two frames:0.000002
+[10:22:11.320]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =169 	 error init =0.486674 	 error end=0.372619
+[10:22:11.320] After pose optimization, distance between ekf and vo x:-0.001721 ,z=-0.000011,angle between two frames:0.000021
+[10:22:11.320] Update EKF and 3D points the number of feature in the new frame: 487 and number of obs: 487
+[10:22:11.321] frame Scene Depth mean:1.506488 ,depth min:0.050319
+[10:22:11.323] need key frame pitch dis: 0.013644 translation dif:0.033509
+[10:22:11.323] frame process finished the id is: 130 the obs is:473 
+[10:22:11.354] Odometry x=0.915551, y=0.969270, theta=-2.370830
+[10:22:11.616] Odometry x=0.915610, y=0.969009, theta=-2.418931
+[10:22:11.859] After Reprojection Map nMatches:590 ,distance between ekf and vo x:0.000028 ,z=0.000024,angle between two frames:0.000001
+[10:22:11.861]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =335 	 error init =0.336112 	 error end=0.172417
+[10:22:11.861] After pose optimization, distance between ekf and vo x:0.000028 ,z=0.000024,angle between two frames:0.000001
+[10:22:11.861] Update EKF and 3D points the number of feature in the new frame: 541 and number of obs: 541
+[10:22:11.861] frame Scene Depth mean:1.923053 ,depth min:0.053450
+[10:22:11.867] need key frame pitch dis: 0.070070 translation dif:0.033343
+[10:22:11.867] frame process finished the id is: 131 the obs is:541 
+[10:22:12.387] Odometry x=0.915606, y=0.969071, theta=-2.427257
+[10:22:12.606] Odometry x=0.915638, y=0.968848, theta=-2.430270
+[10:22:12.642] After Reprojection Map nMatches:863 ,distance between ekf and vo x:0.000069 ,z=0.000043,angle between two frames:0.000004
+[10:22:12.647]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =444 	 error init =0.362234 	 error end=0.119742
+[10:22:12.647] After pose optimization, distance between ekf and vo x:0.000385 ,z=0.000326,angle between two frames:0.000018
+[10:22:12.647] Update EKF and 3D points the number of feature in the new frame: 774 and number of obs: 774
+[10:22:12.647] frame Scene Depth mean:1.797014 ,depth min:0.052036
+[10:22:12.654] need key frame pitch dis: 0.324845 translation dif:0.034502
+[10:22:12.654] Choose frame as a key frame Scene Depth mean:1.797014 ,depth min:0.052036
+[10:22:12.654] frame process finished the id is: 132 the obs is:774 
+[10:22:12.848] Odometry x=0.915792, y=0.968484, theta=-2.441731
+[10:22:13.186] Odometry x=0.915781, y=0.968475, theta=-2.469906
+[10:22:13.365] After Reprojection Map nMatches:1409 ,distance between ekf and vo x:0.000076 ,z=0.000008,angle between two frames:0.000028
+[10:22:13.375]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =910 	 error init =0.158281 	 error end=0.187524
+[10:22:13.375] After pose optimization, distance between ekf and vo x:0.004608 ,z=0.003630,angle between two frames:0.000057
+[10:22:13.375] Update EKF and 3D points the number of feature in the new frame: 1126 and number of obs: 1126
+[10:22:13.375] frame Scene Depth mean:0.907672 ,depth min:0.052161
+[10:22:13.387] need key frame pitch dis: 0.253082 translation dif:0.174773
+[10:22:13.387] Choose frame as a key frame Scene Depth mean:0.907672 ,depth min:0.052161
+[10:22:13.388] frame process finished the id is: 133 the obs is:1126 
+[10:22:14.101] After Reprojection Map nMatches:1098 ,distance between ekf and vo x:0.000014 ,z=-0.000050,angle between two frames:0.000000
+[10:22:14.105]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =602 	 error init =0.124938 	 error end=0.293989
+[10:22:14.105] After pose optimization, distance between ekf and vo x:0.000014 ,z=-0.000050,angle between two frames:0.000000
+[10:22:14.105] Update EKF and 3D points the number of feature in the new frame: 789 and number of obs: 789
+[10:22:14.105] frame Scene Depth mean:0.769237 ,depth min:0.050595
+[10:22:14.114] need key frame pitch dis: 0.259230 translation dif:0.174200
+[10:22:14.114] Choose frame as a key frame Scene Depth mean:0.769237 ,depth min:0.050595
+[10:22:14.115] frame process finished the id is: 134 the obs is:788 
+[10:22:14.596] Odometry x=0.916760, y=0.968110, theta=-2.497496
+[10:22:14.857] Odometry x=0.916867, y=0.967756, theta=-2.499301
+[10:22:15.008] After Reprojection Map nMatches:1315 ,distance between ekf and vo x:0.000067 ,z=-0.000014,angle between two frames:0.000016
+[10:22:15.016]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =811 	 error init =0.190295 	 error end=0.212712
+[10:22:15.016] After pose optimization, distance between ekf and vo x:0.003485 ,z=0.002583,angle between two frames:0.000072
+[10:22:15.016] Update EKF and 3D points the number of feature in the new frame: 920 and number of obs: 920
+[10:22:15.016] frame Scene Depth mean:0.779979 ,depth min:0.051799
+[10:22:15.029] need key frame pitch dis: 0.145817 translation dif:0.416451
+[10:22:15.030] Choose frame as a key frame Scene Depth mean:0.779979 ,depth min:0.051799
+[10:22:15.030] frame process finished the id is: 135 the obs is:920 
+[10:22:15.197] Odometry x=0.919458, y=0.965980, theta=-2.497433
+[10:22:15.349] Odometry x=0.922692, y=0.961740, theta=-2.494272
+[10:22:15.617] Odometry x=0.930039, y=0.951930, theta=-2.494281
+[10:22:15.793] After Reprojection Map nMatches:1266 ,distance between ekf and vo x:0.000010 ,z=-0.000070,angle between two frames:0.000002
+[10:22:15.803]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =607 	 error init =0.189585 	 error end=0.427474
+[10:22:15.803] After pose optimization, distance between ekf and vo x:0.001308 ,z=0.000916,angle between two frames:0.000031
+[10:22:15.803] Update EKF and 3D points the number of feature in the new frame: 798 and number of obs: 798
+[10:22:15.803] frame Scene Depth mean:0.814960 ,depth min:0.050683
+[10:22:15.815] need key frame pitch dis: 0.270614 translation dif:0.196180
+[10:22:15.815] Choose frame as a key frame Scene Depth mean:0.814960 ,depth min:0.050683
+[10:22:15.815] frame process finished the id is: 136 the obs is:790 
+[10:22:15.873] Odometry x=0.934824, y=0.946064, theta=-2.508880
+[10:22:16.125] Odometry x=0.940689, y=0.937211, theta=-2.527679
+[10:22:16.361] Odometry x=0.948438, y=0.926490, theta=-2.533110
+[10:22:16.601] Odometry x=0.956582, y=0.915570, theta=-2.530984
+[10:22:16.693] After Reprojection Map nMatches:1244 ,distance between ekf and vo x:0.000021 ,z=-0.000069,angle between two frames:0.000003
+[10:22:16.697]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =576 	 error init =0.174072 	 error end=0.406481
+[10:22:16.697] After pose optimization, distance between ekf and vo x:0.000021 ,z=-0.000069,angle between two frames:0.000003
+[10:22:16.697] Update EKF and 3D points the number of feature in the new frame: 740 and number of obs: 740
+[10:22:16.697] frame Scene Depth mean:1.413458 ,depth min:0.053392
+[10:22:16.708] need key frame pitch dis: 5.639635 translation dif:0.048304
+[10:22:16.708] Choose frame as a key frame Scene Depth mean:1.413458 ,depth min:0.053392
+[10:22:16.708] frame process finished the id is: 137 the obs is:721 
+[10:22:16.871] Odometry x=0.957361, y=0.913404, theta=-2.529879
+[10:22:17.565] After Reprojection Map nMatches:916 ,distance between ekf and vo x:0.000036 ,z=-0.000078,angle between two frames:0.000022
+[10:22:17.572]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =449 	 error init =0.253230 	 error end=0.372814
+[10:22:17.572] After pose optimization, distance between ekf and vo x:0.025255 ,z=0.017578,angle between two frames:0.000355
+[10:22:17.572] Update EKF and 3D points the number of feature in the new frame: 696 and number of obs: 696
+[10:22:17.572] frame Scene Depth mean:1.101510 ,depth min:0.059097
+[10:22:17.579] need key frame pitch dis: 5.648245 translation dif:0.048484
+[10:22:17.579] Choose frame as a key frame Scene Depth mean:1.101510 ,depth min:0.059097
+[10:22:17.579] frame process finished the id is: 138 the obs is:696 
+[10:22:17.615] Odometry x=0.965490, y=0.918622, theta=-2.538488
+[10:22:17.889] Odometry x=0.967081, y=0.916251, theta=-2.537996
+[10:22:18.115] Odometry x=0.973572, y=0.906633, theta=-2.536339
+[10:22:18.384] Odometry x=0.980449, y=0.896718, theta=-2.545651
+[10:22:18.650] After Reprojection Map nMatches:1311 ,distance between ekf and vo x:0.000117 ,z=-0.000077,angle between two frames:0.000040
+[10:22:18.660]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =648 	 error init =0.261974 	 error end=0.348349
+[10:22:18.660] After pose optimization, distance between ekf and vo x:0.000789 ,z=0.000770,angle between two frames:0.000410
+[10:22:18.660] Update EKF and 3D points the number of feature in the new frame: 977 and number of obs: 977
+[10:22:18.660] frame Scene Depth mean:1.158896 ,depth min:0.050059
+[10:22:18.674] need key frame pitch dis: 5.639558 translation dif:0.068906
+[10:22:18.674] Choose frame as a key frame Scene Depth mean:1.158896 ,depth min:0.050059
+[10:22:18.674] frame process finished the id is: 139 the obs is:972 
+[10:22:19.428] After Reprojection Map nMatches:989 ,distance between ekf and vo x:0.000014 ,z=-0.000024,angle between two frames:0.000000
+[10:22:19.433]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =352 	 error init =0.330021 	 error end=0.691585
+[10:22:19.433] After pose optimization, distance between ekf and vo x:0.000014 ,z=-0.000024,angle between two frames:0.000000
+[10:22:19.433] Update EKF and 3D points the number of feature in the new frame: 725 and number of obs: 725
+[10:22:19.433] frame Scene Depth mean:1.026737 ,depth min:0.051487
+[10:22:19.440] need key frame pitch dis: 0.033327 translation dif:0.056513
+[10:22:19.440] frame process finished the id is: 140 the obs is:723 
+[10:22:20.293] After Reprojection Map nMatches:937 ,distance between ekf and vo x:0.000039 ,z=-0.000029,angle between two frames:0.000008
+[10:22:20.297]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =407 	 error init =2.273655 	 error end=0.408113
+[10:22:20.297] After pose optimization, distance between ekf and vo x:0.000039 ,z=-0.000029,angle between two frames:0.000008
+[10:22:20.297] Update EKF and 3D points the number of feature in the new frame: 882 and number of obs: 882
+[10:22:20.298] frame Scene Depth mean:1.218760 ,depth min:0.051069
+[10:22:20.305] need key frame pitch dis: 0.033442 translation dif:0.057476
+[10:22:20.305] frame process finished the id is: 141 the obs is:882 
+[10:22:21.255] After Reprojection Map nMatches:1008 ,distance between ekf and vo x:0.000062 ,z=-0.000015,angle between two frames:0.000024
+[10:22:21.262]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =479 	 error init =2.519155 	 error end=0.224675
+[10:22:21.262] After pose optimization, distance between ekf and vo x:0.006006 ,z=0.006132,angle between two frames:0.000112
+[10:22:21.262] Update EKF and 3D points the number of feature in the new frame: 939 and number of obs: 939
+[10:22:21.263] frame Scene Depth mean:1.057384 ,depth min:0.052921
+[10:22:21.271] need key frame pitch dis: 0.033468 translation dif:0.056365
+[10:22:21.271] frame process finished the id is: 142 the obs is:939 
+[10:22:22.193] After Reprojection Map nMatches:975 ,distance between ekf and vo x:0.000062 ,z=-0.000019,angle between two frames:0.000039
+[10:22:22.197]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =459 	 error init =0.632742 	 error end=0.156554
+[10:22:22.197] After pose optimization, distance between ekf and vo x:0.000062 ,z=-0.000019,angle between two frames:0.000039
+[10:22:22.197] Update EKF and 3D points the number of feature in the new frame: 927 and number of obs: 927
+[10:22:22.197] frame Scene Depth mean:1.240746 ,depth min:0.050301
+[10:22:22.205] need key frame pitch dis: 0.033462 translation dif:0.057438
+[10:22:22.205] frame process finished the id is: 143 the obs is:927 
+[10:22:23.171] After Reprojection Map nMatches:1027 ,distance between ekf and vo x:0.000071 ,z=-0.000014,angle between two frames:0.000040
+[10:22:23.177]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =485 	 error init =0.823139 	 error end=0.188073
+[10:22:23.177] After pose optimization, distance between ekf and vo x:0.000546 ,z=0.000377,angle between two frames:0.000032
+[10:22:23.177] Update EKF and 3D points the number of feature in the new frame: 969 and number of obs: 969
+[10:22:23.177] frame Scene Depth mean:1.113572 ,depth min:0.050089
+[10:22:23.186] need key frame pitch dis: 0.033460 translation dif:0.057603
+[10:22:23.186] frame process finished the id is: 144 the obs is:969 
+[10:22:24.159] After Reprojection Map nMatches:975 ,distance between ekf and vo x:0.000126 ,z=-0.000011,angle between two frames:0.000071
+[10:22:24.162]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =487 	 error init =2.404588 	 error end=0.059353
+[10:22:24.162] After pose optimization, distance between ekf and vo x:0.000126 ,z=-0.000011,angle between two frames:0.000071
+[10:22:24.162] Update EKF and 3D points the number of feature in the new frame: 931 and number of obs: 931
+[10:22:24.162] frame Scene Depth mean:1.242861 ,depth min:0.051016
+[10:22:24.171] need key frame pitch dis: 0.033465 translation dif:0.057726
+[10:22:24.171] frame process finished the id is: 145 the obs is:930 
+[10:22:25.292] After Reprojection Map nMatches:1016 ,distance between ekf and vo x:0.000076 ,z=-0.000025,angle between two frames:0.000037
+[10:22:25.296]  n obs with reprojection error less than 1.0 / frame->cam_->errorMultiplier2() =477 	 error init =0.504941 	 error end=0.137881
+[10:22:25.296] After pose optimization, distance between ekf and vo x:0.000076 ,z=-0.000025,angle between two frames:0.000037
+[10:22:25.296] Update EKF and 3D points the number of feature in the new frame: 945 and number of obs: 945
+[10:22:25.296] frame Scene Depth mean:1.162869 ,depth min:0.050135
+[10:22:25.306] need key frame pitch dis: 0.033461 translation dif:0.057757
+[10:22:25.306] frame process finished the id is: 146 the obs is:945 

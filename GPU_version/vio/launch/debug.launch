@@ -1,0 +1,21 @@
+<launch>
+
+  <node pkg="vio" type="vio" name="vio" clear_params="true" output="screen"  launch-prefix="xterm -e gdb --args"/>
+
+    <!-- Camera topic to subscribe to -->
+    <param name="vio/cam_topic" value="/CoreNode/grey_img" type="str" />
+    <param name="vio/imu_topic" value="/SensorNode/imu" type="str" />
+    <param name="vio/cmd_topic" value="/cmd_vel" type="str" />
+    <param name="vio/start" value="/vio/start" type="str" />
+    <param name="vio/stop" value="/vio/stop" type="str" />
+    <param name="vio/odom" value="/vio/getOdom" type="str" />
+    
+    <!-- Camera calibration file -->
+    <rosparam file="$(find vio)/param/px30.yaml" />
+
+  <!-- /node -->
+
+  <!-- Default parameter settings: choose between vo_fast and vo_accurate -->
+  <rosparam file="$(find vio)/param/vo_fast.yaml" />
+
+</launch>
