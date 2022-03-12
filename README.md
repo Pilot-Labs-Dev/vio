@@ -31,6 +31,6 @@ GPU_version/vio/param/vo_fast.yaml
     3. The number of matched points are increasing a lot we need to limit them in a way that will not cause some error in the estimated odometry
     
 # Log files
-log files will be written in the project folder, you can change the path in the cmake files as well as activating debug mode or not
-https://github.com/Pilot-Labs-Dev/vio/blob/111141365d86e3260cb75a9235afa47f0a1397fe/GPU_version/vio/CMakeLists.txt#L89
+     log files will be written in the project folder, you can change the path in the cmake files as well as activating debug mode or not
+     https://github.com/Pilot-Labs-Dev/vio/blob/111141365d86e3260cb75a9235afa47f0a1397fe/GPU_version/vio/CMakeLists.txt#L89
 
